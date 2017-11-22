@@ -1,0 +1,3739 @@
+
+Starting Nmap 7.25BETA1 ( https://nmap.org ) at 2016-12-20 14:15 MST
+Nmap scan report for 10.226.0.1
+Host is up (0.014s latency).
+Not shown: 995 closed ports
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+443/tcp   open     https
+50300/tcp filtered unknown
+50389/tcp filtered unknown
+50500/tcp filtered unknown
+MAC Address: D0:7E:28:D4:AD:0B (Hewlett Packard)
+Device type: switch
+Running: H3C Comware 5.X
+OS CPE: cpe:/o:h3c:comware:5.20
+OS details: H3C Comware 5.20
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.24
+Host is up (0.0078s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1E:0B:11:E0:2C (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.25
+Host is up (0.0080s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1B:78:0F:3E:DA (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.26
+Host is up (0.0077s latency).
+Not shown: 989 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+1782/tcp open  hp-hcip
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:11:0A:F5:78:C7 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.28
+Host is up (0.0087s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1A:4B:2C:B3:BA (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.32
+Host is up (0.0097s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+515/tcp  open  printer
+631/tcp  open  ipp
+5120/tcp open  unknown
+9100/tcp open  jetdirect
+MAC Address: 08:00:09:6B:70:92 (Hewlett Packard)
+Device type: print server
+Running: HP embedded
+OS CPE: cpe:/h:hp:jetdirect_2591a
+OS details: HP JetDirect 2591A print server
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.33
+Host is up (0.0087s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:14:38:DC:0F:A1 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.36
+Host is up (0.0094s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:14:38:E8:9E:68 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.37
+Host is up (0.0091s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:14:38:E1:C0:53 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.38
+Host is up (0.0089s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: DC:4A:3E:B4:66:AC (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.39
+Host is up (0.0092s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:21:5A:94:17:7F (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.40
+Host is up (0.0096s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:1F:29:22:49:73 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.42
+Host is up (0.0099s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:01:E6:64:9E:B7 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet printer (4050, 4100, 4200, or 8150)
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.44
+Host is up (0.0098s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:11:85:D8:78:C9 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.45
+Host is up (0.0096s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:14:38:E6:CD:E5 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.46
+Host is up (0.0092s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 38:63:BB:01:06:1E (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.47
+Host is up (0.010s latency).
+Not shown: 988 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+7627/tcp  open  soap-http
+9100/tcp  open  jetdirect
+9220/tcp  open  unknown
+9290/tcp  open  unknown
+14000/tcp open  scotty-ft
+MAC Address: 00:11:0A:C2:51:FB (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.48
+Host is up (0.0052s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1B:78:0F:3E:0B (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.50
+Host is up (0.0053s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: C8:CB:B8:60:18:3B (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.51
+Host is up (0.0059s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+7627/tcp open  soap-http
+9100/tcp open  jetdirect
+MAC Address: A4:5D:36:5E:10:A7 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.53
+Host is up (0.0059s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1B:78:10:97:23 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.54
+Host is up (0.0056s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:1E:0B:16:09:71 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.55
+Host is up (0.0059s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 3C:4A:92:42:41:9D (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.59
+Host is up (0.0060s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:21:5A:97:B8:D7 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.61
+Host is up (0.022s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+515/tcp  open  printer
+631/tcp  open  ipp
+5120/tcp open  unknown
+9100/tcp open  jetdirect
+MAC Address: 00:30:C1:55:31:F0 (Hewlett Packard)
+Device type: print server|printer
+Running: HP embedded
+OS CPE: cpe:/h:hp:jetdirect_170x cpe:/h:hp:inkjet_3000
+OS details: HP 170X print server or Inkjet 3000 printer, HP LaserJet 4250 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.64
+Host is up (0.0060s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1B:78:0F:CC:F9 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.65
+Host is up (0.0071s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:11:0A:B9:82:2E (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.66
+Host is up (0.010s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:11:0A:F1:CA:06 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.67
+Host is up (0.010s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:1F:29:22:7E:24 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.68
+Host is up (0.010s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 2C:27:D7:0D:D9:36 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.69
+Host is up (0.011s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:01:E6:80:36:18 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet printer (4050, 4100, 4200, or 8150)
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.71
+Host is up (0.011s latency).
+Not shown: 988 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+7627/tcp  open  soap-http
+9100/tcp  open  jetdirect
+9220/tcp  open  unknown
+9290/tcp  open  unknown
+14000/tcp open  scotty-ft
+MAC Address: 00:1B:78:F0:3A:48 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.72
+Host is up (0.011s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 08:00:37:EA:33:68 (Fuji-xerox)
+Device type: general purpose
+Running: Wind River VxWorks
+OS CPE: cpe:/o:windriver:vxworks
+OS details: VxWorks
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.73
+Host is up (0.011s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: B4:B5:2F:F8:EC:68 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.74
+Host is up (0.012s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+139/tcp   open  netbios-ssn
+427/tcp   open  svrloc
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+515/tcp   open  printer
+631/tcp   open  ipp
+843/tcp   open  unknown
+9100/tcp  open  jetdirect
+50001/tcp open  unknown
+MAC Address: 00:50:AA:28:4F:2D (Konica Minolta Holdings)
+Device type: VoIP phone
+Running: Aastra embedded
+OS details: Aastra Dialog 4425 IP phone
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.76
+Host is up (0.012s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+139/tcp   open  netbios-ssn
+427/tcp   open  svrloc
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+515/tcp   open  printer
+631/tcp   open  ipp
+843/tcp   open  unknown
+9100/tcp  open  jetdirect
+50001/tcp open  unknown
+MAC Address: 00:50:AA:28:52:2E (Konica Minolta Holdings)
+Device type: VoIP phone
+Running: Aastra embedded
+OS details: Aastra Dialog 4425 IP phone
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.79
+Host is up (0.012s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 3C:D9:2B:A3:21:BD (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.80
+Host is up (0.013s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+9100/tcp  open  jetdirect
+14000/tcp open  scotty-ft
+MAC Address: 00:1E:0B:13:82:FB (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.81
+Host is up (0.013s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:11:0A:EC:CB:C7 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.82
+Host is up (0.00088s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+8000/tcp open  http-alt
+MAC Address: 00:00:85:4A:B2:0B (Canon)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.25BETA1%E=4%D=12/20%OT=80%CT=1%CU=39613%PV=Y%DS=1%DC=D%G=Y%M=00
+OS:0085%TM=58599FD3%P=x86_64-pc-linux-gnu)SEQ(SP=9B%GCD=1%ISR=A0%TI=I%CI=I%
+OS:II=I%SS=S%TS=1)OPS(O1=M5B4NW0NNT11%O2=M5B4NW0NNT11%O3=M5B4NW0NNT11%O4=M5
+OS:B4NW0NNT11%O5=M5B4NW0NNT11%O6=M5B4NNT11)WIN(W1=4000%W2=4000%W3=4000%W4=4
+OS:000%W5=4000%W6=4000)ECN(R=Y%DF=Y%T=40%W=4000%O=M5B4NW0%CC=N%Q=)T1(R=Y%DF
+OS:=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=Y%DF=Y%T=40%W=4000%S=O%A=S+%F=
+OS:AS%O=M5B4NW0NNT11%RD=0%Q=)T4(R=Y%DF=N%T=40%W=4000%S=A%A=Z%F=R%O=%RD=0%Q=
+OS:)T5(R=Y%DF=N%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=N%T=40%W=0%S=A%
+OS:A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=N%T=40%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)U1(R=Y%D
+OS:F=N%T=40%IPL=38%UN=0%RIPL=G%RID=G%RIPCK=Z%RUCK=0%RUD=G)IE(R=Y%DFI=S%T=40
+OS:%CD=S)
+
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.83
+Host is up (0.013s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+8080/tcp open  http-proxy
+8291/tcp open  unknown
+9100/tcp open  jetdirect
+MAC Address: A0:8C:FD:61:04:E8 (Unknown)
+Device type: printer
+Running: HP embedded
+OS CPE: cpe:/h:hp:laserjet_cp4525 cpe:/h:hp:laserjet_m451dn
+OS details: HP LaserJet M451dn, CM1415fnw, or CP4525
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.84
+Host is up (0.013s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 1C:C1:DE:CA:5A:A2 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.85
+Host is up (0.013s latency).
+Not shown: 988 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+631/tcp   open  ipp
+7627/tcp  open  soap-http
+9100/tcp  open  jetdirect
+9220/tcp  open  unknown
+9290/tcp  open  unknown
+14000/tcp open  scotty-ft
+MAC Address: 00:11:0A:C1:CD:A1 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.86
+Host is up (0.013s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 74:46:A0:4B:44:C2 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.87
+Host is up (0.0011s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+8080/tcp open  http-proxy
+8291/tcp open  unknown
+9100/tcp open  jetdirect
+MAC Address: 98:E7:F4:04:2D:A4 (Unknown)
+Device type: printer
+Running: HP embedded
+OS CPE: cpe:/h:hp:laserjet_cp4525 cpe:/h:hp:laserjet_m451dn
+OS details: HP LaserJet M451dn, CM1415fnw, or CP4525
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.90
+Host is up (0.014s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 2C:59:E5:77:A0:BE (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.91
+Host is up (0.014s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 2C:76:8A:04:6D:31 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.92
+Host is up (0.014s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+7627/tcp open  soap-http
+9100/tcp open  jetdirect
+MAC Address: A0:48:1C:68:A5:B5 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 600 M601, 600 M602, 500 M551, or M830 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.94
+Host is up (0.012s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:11:0A:B9:CF:B4 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.100
+Host is up (0.0079s latency).
+All 1000 scanned ports on 10.226.0.100 are closed
+MAC Address: 00:1F:29:22:7E:04 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.101
+Host is up (0.0096s latency).
+Not shown: 984 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+515/tcp  open  printer
+631/tcp  open  ipp
+6839/tcp open  unknown
+7435/tcp open  unknown
+8080/tcp open  http-proxy
+9100/tcp open  jetdirect
+9101/tcp open  jetdirect
+9102/tcp open  jetdirect
+9110/tcp open  unknown
+9111/tcp open  DragonIDSConsole
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: D8:9D:67:DD:78:5A (Hewlett Packard)
+Device type: general purpose|printer|VoIP adapter
+Running: Wind River VxWorks, HP embedded, Vocality embedded
+OS CPE: cpe:/o:windriver:vxworks
+OS details: VxWorks: HP printer or Vocality BASICS Four Wire VoIP gateway
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.105
+Host is up (0.0091s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+515/tcp  open  printer
+9011/tcp open  unknown
+9100/tcp open  jetdirect
+MAC Address: 00:1E:8F:9D:83:E4 (Canon)
+Device type: printer|general purpose
+Running: Canon embedded, Wind River VxWorks
+OS CPE: cpe:/h:canon:imagerunner_2525 cpe:/o:windriver:vxworks
+OS details: Canon imageRUNNER 2525 printer (VxWorks)
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.109
+Host is up (0.0099s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:1B:78:F5:A7:77 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.112
+Host is up (0.010s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 00:1F:29:22:B2:9F (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.113
+Host is up (0.012s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+MAC Address: 64:EB:8C:30:CD:D7 (Seiko Epson)
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.9 - 2.6.33
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.126
+Host is up (0.0097s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+MAC Address: 08:2E:5F:BB:1D:B7 (Hewlett Packard)
+Device type: general purpose|printer|VoIP adapter
+Running: Wind River VxWorks, HP embedded, Vocality embedded
+OS CPE: cpe:/o:windriver:vxworks
+OS details: VxWorks: HP printer or Vocality BASICS Four Wire VoIP gateway
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.130
+Host is up (0.0094s latency).
+Not shown: 990 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+514/tcp  open  shell
+515/tcp  open  printer
+631/tcp  open  ipp
+7443/tcp open  oracleas-https
+8080/tcp open  http-proxy
+9100/tcp open  jetdirect
+MAC Address: 00:26:73:8D:3C:F7 (Ricoh Company)
+Device type: general purpose|printer
+Running: NetBSD 2.X, Ricoh embedded
+OS CPE: cpe:/o:netbsd:netbsd:2.1.0_stable cpe:/h:ricoh:c720s cpe:/h:ricoh:1107ex cpe:/h:ricoh:aficio_mp_2550 cpe:/h:ricoh:aficio_mp_7001
+OS details: NetBSD 2.1.0_STABLE or Ricoh C720S, 1107EX, MP 2550, or MP 7001 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.133
+Host is up (0.010s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 2C:41:38:82:E6:BB (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.150
+Host is up (0.011s latency).
+Not shown: 989 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+280/tcp  open  http-mgmt
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+1782/tcp open  hp-hcip
+9100/tcp open  jetdirect
+9220/tcp open  unknown
+9290/tcp open  unknown
+MAC Address: 00:0E:7F:E7:50:ED (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 3330/4050/4200/4600/5100/5550/9500 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.179
+Host is up (0.011s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 64:51:06:27:E6:8C (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.180
+Host is up (0.011s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+7627/tcp open  soap-http
+9100/tcp open  jetdirect
+MAC Address: 6C:C2:17:25:11:D5 (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 600 M601, 600 M602, 500 M551, or M830 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.182
+Host is up (0.011s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: 34:64:A9:6A:D9:DB (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 2055dn, 2420, P3005, CP4005, 4250, P4014, or P4015 printer
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.0.186
+Host is up (0.011s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+7627/tcp open  soap-http
+9100/tcp open  jetdirect
+MAC Address: 34:64:A9:6F:5A:7D (Hewlett Packard)
+Device type: printer
+Running: HP embedded
+OS details: HP LaserJet 600 M601, 600 M602, 500 M551, or M830 printer
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-16.canyonsdistrict.pvt (10.226.1.16)
+Host is up (0.038s latency).
+All 1000 scanned ports on dhcp-10-226-1-16.canyonsdistrict.pvt (10.226.1.16) are filtered
+MAC Address: A4:C4:94:25:D1:90 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Stats: 0:08:13 elapsed; 364 hosts completed (128 up), 64 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 41.80% done; ETC: 14:32 (0:08:46 remaining)
+Nmap scan report for 708s-1541-106.canyonsdistrict.pvt (10.226.1.18)
+Host is up (0.069s latency).
+Not shown: 572 closed ports, 426 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+5900/tcp open  vnc
+MAC Address: C8:E0:EB:4A:CC:23 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for android-9164f768cc73953.canyonsdistrict.pvt (10.226.1.19)
+Host is up (0.019s latency).
+All 1000 scanned ports on android-9164f768cc73953.canyonsdistrict.pvt (10.226.1.19) are closed (684) or filtered (316)
+MAC Address: 2C:59:8A:3C:CD:43 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-k204-para.canyonsdistrict.pvt (10.226.1.20)
+Host is up (0.015s latency).
+Not shown: 995 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1801/tcp open  msmq
+2103/tcp open  zephyr-clt
+MAC Address: 08:2E:5F:2C:94:55 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-24.canyonsdistrict.pvt (10.226.1.24)
+Host is up (0.0018s latency).
+Not shown: 565 closed ports, 433 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+9998/tcp open  distinct32
+MAC Address: C0:8A:DE:1D:E8:E0 (Ruckus Wireless)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-39.canyonsdistrict.pvt (10.226.1.26)
+Host is up (0.015s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2701/tcp open  sms-rcinfo
+MAC Address: 24:BE:05:14:B3:5A (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-116.canyonsdistrict.pvt (10.226.1.29)
+Host is up (0.0074s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 50:65:F3:50:91:DF (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-114.canyonsdistrict.pvt (10.226.1.37)
+Host is up (0.0013s latency).
+Not shown: 628 closed ports, 369 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+88/tcp   open  kerberos-sec
+5900/tcp open  vnc
+MAC Address: 68:5B:35:B7:96:D5 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g102-104.canyonsdistrict.pvt (10.226.1.38)
+Host is up (0.0048s latency).
+All 1000 scanned ports on 708s-g102-104.canyonsdistrict.pvt (10.226.1.38) are filtered
+MAC Address: F0:92:1C:EF:08:4D (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-17.canyonsdistrict.pvt (10.226.1.41)
+Host is up (0.0026s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 24:BE:05:14:B2:9B (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-42.canyonsdistrict.pvt (10.226.1.42)
+Host is up (0.033s latency).
+Not shown: 655 closed ports, 344 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 00:24:73:5F:0B:EB (3com Europe)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-329.canyonsdistrict.pvt (10.226.1.44)
+Host is up (0.059s latency).
+Not shown: 977 filtered ports
+PORT      STATE  SERVICE
+17/tcp    closed qotd
+22/tcp    closed ssh
+23/tcp    closed telnet
+25/tcp    closed smtp
+113/tcp   closed ident
+199/tcp   closed smux
+340/tcp   closed unknown
+443/tcp   closed https
+445/tcp   closed microsoft-ds
+554/tcp   closed rtsp
+995/tcp   closed pop3s
+1034/tcp  closed zincite-a
+1124/tcp  closed hpvmmcontrol
+1723/tcp  closed pptp
+1947/tcp  closed sentinelsrm
+2288/tcp  closed netml
+2811/tcp  closed gsiftp
+5900/tcp  closed vnc
+8080/tcp  closed http-proxy
+8194/tcp  closed sophos
+8888/tcp  closed sun-answerbook
+10001/tcp closed scp-config
+33899/tcp closed unknown
+MAC Address: 68:9C:70:7F:57:0B (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-cc-shirley.canyonsdistrict.pvt (10.226.1.47)
+Host is up (0.0096s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+2701/tcp open  sms-rcinfo
+MAC Address: 6C:3B:E5:14:9E:19 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.49
+Host is up (0.056s latency).
+All 1000 scanned ports on 10.226.1.49 are filtered (612) or closed (388)
+MAC Address: 04:F7:E4:21:A5:E2 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.52
+Host is up (0.11s latency).
+All 1000 scanned ports on 10.226.1.52 are closed (578) or filtered (422)
+MAC Address: 90:FD:61:CF:8B:BD (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for mykaylas-iphone.canyonsdistrict.pvt (10.226.1.55)
+Host is up (0.055s latency).
+All 1000 scanned ports on mykaylas-iphone.canyonsdistrict.pvt (10.226.1.55) are closed (556) or filtered (444)
+MAC Address: CC:08:8D:60:31:1B (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-102.canyonsdistrict.pvt (10.226.1.57)
+Host is up (0.0060s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: A0:D3:C1:06:98:58 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-58.canyonsdistrict.pvt (10.226.1.58)
+Host is up (0.0021s latency).
+All 1000 scanned ports on dhcp-10-226-1-58.canyonsdistrict.pvt (10.226.1.58) are filtered
+MAC Address: A4:C4:94:3D:40:82 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1523-ml-01.canyonsdistrict.pvt (10.226.1.66)
+Host is up (0.011s latency).
+Not shown: 995 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1801/tcp open  msmq
+2103/tcp open  zephyr-clt
+MAC Address: 08:2E:5F:2F:C0:B0 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708n-attn-hp.canyonsdistrict.pvt (10.226.1.67)
+Host is up (0.0021s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1801/tcp open  msmq
+2103/tcp open  zephyr-clt
+3389/tcp open  ms-wbt-server
+MAC Address: 2C:41:38:B5:8D:3F (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-68.canyonsdistrict.pvt (10.226.1.68)
+Host is up (0.14s latency).
+All 1000 scanned ports on dhcp-10-226-1-68.canyonsdistrict.pvt (10.226.1.68) are filtered
+MAC Address: A4:C4:94:3C:5B:90 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-09.canyonsdistrict.pvt (10.226.1.71)
+Host is up (0.0070s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 24:BE:05:14:B3:69 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-72.canyonsdistrict.pvt (10.226.1.72)
+Host is up (0.013s latency).
+Not shown: 530 filtered ports, 469 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+MAC Address: C0:8A:DE:1D:E7:80 (Ruckus Wireless)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1023-88.canyonsdistrict.pvt (10.226.1.79)
+Host is up (0.0037s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 08:2E:5F:2E:0F:67 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for android-ab146b325340c320.canyonsdistrict.pvt (10.226.1.81)
+Host is up (0.12s latency).
+All 1000 scanned ports on android-ab146b325340c320.canyonsdistrict.pvt (10.226.1.81) are filtered (547) or closed (453)
+MAC Address: 90:B6:86:C5:E9:15 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-82.canyonsdistrict.pvt (10.226.1.82)
+Host is up (0.0099s latency).
+Not shown: 616 closed ports, 383 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 80:1F:02:E4:71:CA (Edimax Technology)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1023-86.canyonsdistrict.pvt (10.226.1.86)
+Host is up (0.0014s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 2C:41:38:B4:4A:07 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708a-2018.canyonsdistrict.pvt (10.226.1.88)
+Host is up (0.0033s latency).
+Not shown: 511 filtered ports, 487 closed ports
+PORT     STATE SERVICE
+7000/tcp open  afs3-fileserver
+7100/tcp open  font-service
+MAC Address: 98:D6:BB:11:69:A2 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for android-6ebaf5ae990187f.canyonsdistrict.pvt (10.226.1.90)
+Host is up (0.47s latency).
+All 1000 scanned ports on android-6ebaf5ae990187f.canyonsdistrict.pvt (10.226.1.90) are closed (560) or filtered (440)
+MAC Address: 04:C2:3E:86:31:97 (HTC)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708a-e113.canyonsdistrict.pvt (10.226.1.91)
+Host is up (0.0080s latency).
+Not shown: 587 closed ports, 410 filtered ports
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
+7100/tcp open  font-service
+MAC Address: 9C:20:7B:D0:49:89 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-134.canyonsdistrict.pvt (10.226.1.93)
+Host is up (0.0081s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: A0:48:1C:A9:2F:57 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for kathryns-iphone.canyonsdistrict.pvt (10.226.1.94)
+Host is up (0.062s latency).
+All 1000 scanned ports on kathryns-iphone.canyonsdistrict.pvt (10.226.1.94) are closed (579) or filtered (421)
+MAC Address: 60:C5:47:57:ED:8A (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-k208-1bm.canyonsdistrict.pvt (10.226.1.95)
+Host is up (0.0015s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+2701/tcp open  sms-rcinfo
+MAC Address: C4:34:6B:62:6C:DA (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1045-13.canyonsdistrict.pvt (10.226.1.100)
+Host is up (0.025s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: F0:92:1C:DF:25:0F (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.102
+Host is up (0.020s latency).
+All 1000 scanned ports on 10.226.1.102 are filtered (922) or closed (78)
+MAC Address: A8:86:DD:C6:00:70 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-7138e8c03904baa3.canyonsdistrict.pvt (10.226.1.103)
+Host is up (0.045s latency).
+All 1000 scanned ports on android-7138e8c03904baa3.canyonsdistrict.pvt (10.226.1.103) are closed (676) or filtered (324)
+MAC Address: 90:B6:86:C5:27:C1 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for peeler.canyonsdistrict.pvt (10.226.1.105)
+Host is up (0.15s latency).
+Not shown: 567 closed ports, 430 filtered ports
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
+7100/tcp open  font-service
+MAC Address: B8:78:2E:51:A6:6C (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-306.canyonsdistrict.pvt (10.226.1.106)
+Host is up (0.064s latency).
+All 1000 scanned ports on 708-ipadmini-306.canyonsdistrict.pvt (10.226.1.106) are filtered (974) or closed (26)
+MAC Address: 68:9C:70:86:D0:45 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-8e8d254b2740516a.canyonsdistrict.pvt (10.226.1.109)
+Host is up (0.15s latency).
+All 1000 scanned ports on android-8e8d254b2740516a.canyonsdistrict.pvt (10.226.1.109) are closed (802) or filtered (198)
+MAC Address: C0:BD:D1:CD:CA:B9 (Samsung Electro Mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-30.canyonsdistrict.pvt (10.226.1.117)
+Host is up (0.017s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2701/tcp open  sms-rcinfo
+MAC Address: 08:2E:5F:02:9A:A0 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-136.canyonsdistrict.pvt (10.226.1.118)
+Host is up (0.038s latency).
+All 1000 scanned ports on 708-ipadmini-136.canyonsdistrict.pvt (10.226.1.118) are filtered (922) or closed (78)
+MAC Address: 10:1C:0C:9F:F0:3E (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-119.canyonsdistrict.pvt (10.226.1.119)
+Host is up (0.093s latency).
+All 1000 scanned ports on dhcp-10-226-1-119.canyonsdistrict.pvt (10.226.1.119) are filtered
+MAC Address: 7C:B0:C2:40:69:FB (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-118.canyonsdistrict.pvt (10.226.1.120)
+Host is up (0.0021s latency).
+Not shown: 643 closed ports, 354 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+88/tcp   open  kerberos-sec
+5900/tcp open  vnc
+MAC Address: 68:5B:35:AF:53:44 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-09.canyonsdistrict.pvt (10.226.1.125)
+Host is up (0.018s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: B4:B5:2F:C6:9A:DF (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for aprilsagalaipad.canyonsdistrict.pvt (10.226.1.126)
+Host is up (0.012s latency).
+All 1000 scanned ports on aprilsagalaipad.canyonsdistrict.pvt (10.226.1.126) are closed (554) or filtered (446)
+MAC Address: E0:F5:C6:43:40:E9 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-48e8fb6323529483.canyonsdistrict.pvt (10.226.1.127)
+Host is up (0.065s latency).
+All 1000 scanned ports on android-48e8fb6323529483.canyonsdistrict.pvt (10.226.1.127) are closed (593) or filtered (407)
+MAC Address: F8:A9:D0:61:D4:7D (LG Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.128
+Host is up (0.066s latency).
+All 1000 scanned ports on 10.226.1.128 are closed (586) or filtered (414)
+MAC Address: 20:AB:37:38:EA:AA (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-05.canyonsdistrict.pvt (10.226.1.129)
+Host is up (0.0081s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+445/tcp open  microsoft-ds
+MAC Address: 24:BE:05:15:F5:6B (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-30.canyonsdistrict.pvt (10.226.1.130)
+Host is up (0.0086s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: B4:B5:2F:CD:8E:25 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for android-cc204835203e7c1f.canyonsdistrict.pvt (10.226.1.132)
+Host is up (0.21s latency).
+All 1000 scanned ports on android-cc204835203e7c1f.canyonsdistrict.pvt (10.226.1.132) are filtered (525) or closed (475)
+MAC Address: 84:10:0D:A7:A3:EC (Motorola Mobility, a Lenovo Company)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-ato-1ao.canyonsdistrict.pvt (10.226.1.134)
+Host is up (0.0077s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1801/tcp open  msmq
+2103/tcp open  zephyr-clt
+MAC Address: C4:34:6B:68:59:02 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-19.canyonsdistrict.pvt (10.226.1.135)
+Host is up (0.0038s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 24:BE:05:14:B2:AF (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-136.canyonsdistrict.pvt (10.226.1.136)
+Host is up (0.0072s latency).
+Not shown: 552 closed ports, 441 filtered ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+23/tcp    open  telnet
+80/tcp    open  http
+280/tcp   open  http-mgmt
+443/tcp   open  https
+515/tcp   open  printer
+14000/tcp open  scotty-ft
+MAC Address: 00:1B:78:19:96:C9 (Hewlett Packard)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-14.canyonsdistrict.pvt (10.226.1.138)
+Host is up (0.018s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 8C:DC:D4:27:5A:B8 (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708a-spot.canyonsdistrict.pvt (10.226.1.141)
+Host is up (0.0062s latency).
+Not shown: 617 filtered ports, 381 closed ports
+PORT     STATE SERVICE
+7000/tcp open  afs3-fileserver
+7100/tcp open  font-service
+MAC Address: 98:D6:BB:10:B5:17 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1045-08.canyonsdistrict.pvt (10.226.1.142)
+Host is up (0.0032s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2701/tcp open  sms-rcinfo
+MAC Address: F0:92:1C:E3:83:0A (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.143
+Host is up (0.065s latency).
+Not shown: 601 closed ports, 398 filtered ports
+PORT     STATE SERVICE
+9080/tcp open  glrpc
+MAC Address: 24:F0:94:A5:4F:8E (Unknown)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.153
+Host is up (0.059s latency).
+All 1000 scanned ports on 10.226.1.153 are filtered (540) or closed (460)
+MAC Address: DC:37:14:33:0A:0D (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-154.canyonsdistrict.pvt (10.226.1.154)
+Host is up (0.13s latency).
+All 1000 scanned ports on dhcp-10-226-1-154.canyonsdistrict.pvt (10.226.1.154) are filtered
+MAC Address: 4C:EB:42:CD:6A:90 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadtc-202.canyonsdistrict.pvt (10.226.1.158)
+Host is up (0.013s latency).
+All 1000 scanned ports on 708-ipadtc-202.canyonsdistrict.pvt (10.226.1.158) are closed (526) or filtered (474)
+MAC Address: 04:15:52:35:25:BE (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-215.canyonsdistrict.pvt (10.226.1.160)
+Host is up (0.016s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: C4:34:6B:68:58:EB (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1028-kb-l1.canyonsdistrict.pvt (10.226.1.165)
+Host is up (0.057s latency).
+Not shown: 506 closed ports, 492 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+5900/tcp open  vnc
+MAC Address: 98:E0:D9:84:05:73 (Apple)
+Device type: firewall
+Running (JUST GUESSING): Fortinet embedded (87%)
+OS CPE: cpe:/h:fortinet:fortigate_100d
+Aggressive OS guesses: Fortinet FortiGate 100D firewall (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for blu_studio_c_mini.canyonsdistrict.pvt (10.226.1.167)
+Host is up (0.057s latency).
+All 1000 scanned ports on blu_studio_c_mini.canyonsdistrict.pvt (10.226.1.167) are closed (543) or filtered (457)
+MAC Address: D8:3C:69:67:B3:34 (Shenzhen Tinno Mobile Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-7ff87b3b60a81726.canyonsdistrict.pvt (10.226.1.170)
+Host is up (0.011s latency).
+All 1000 scanned ports on android-7ff87b3b60a81726.canyonsdistrict.pvt (10.226.1.170) are closed (540) or filtered (460)
+MAC Address: C0:BD:D1:48:AC:0B (Samsung Electro Mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1028n-05.canyonsdistrict.pvt (10.226.1.171)
+Host is up (0.012s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 08:2E:5F:2A:19:6F (Hewlett Packard)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linux 2.4.X|2.6.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6.22 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Tomato firmware (Linux 2.6.22), Sony Ericsson U8i Vivaz mobile phone
+Network Distance: 1 hop
+
+Nmap scan report for android-91e11477b19d835e.canyonsdistrict.pvt (10.226.1.172)
+Host is up (0.0035s latency).
+All 1000 scanned ports on android-91e11477b19d835e.canyonsdistrict.pvt (10.226.1.172) are filtered
+MAC Address: AC:5F:3E:38:8A:DC (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.177
+Host is up (0.073s latency).
+All 1000 scanned ports on 10.226.1.177 are filtered
+MAC Address: B0:34:95:A3:27:AF (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-111.canyonsdistrict.pvt (10.226.1.180)
+Host is up (0.0017s latency).
+All 1000 scanned ports on 708s-1541-111.canyonsdistrict.pvt (10.226.1.180) are filtered
+MAC Address: 68:5B:35:B6:D1:F9 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-35.canyonsdistrict.pvt (10.226.1.182)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-g101-35.canyonsdistrict.pvt (10.226.1.182) are filtered
+MAC Address: 64:51:06:60:9D:2C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-113.canyonsdistrict.pvt (10.226.1.185)
+Host is up (0.00098s latency).
+All 1000 scanned ports on 708s-1053-113.canyonsdistrict.pvt (10.226.1.185) are filtered
+MAC Address: A0:48:1C:8F:56:6B (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadtc-210.canyonsdistrict.pvt (10.226.1.187)
+Host is up (0.018s latency).
+All 1000 scanned ports on 708-ipadtc-210.canyonsdistrict.pvt (10.226.1.187) are filtered
+MAC Address: 04:15:52:34:B0:C4 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for taylorsiphone2.canyonsdistrict.pvt (10.226.1.189)
+Host is up (0.027s latency).
+All 1000 scanned ports on taylorsiphone2.canyonsdistrict.pvt (10.226.1.189) are filtered
+MAC Address: 8C:8E:F2:E1:AB:86 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-2020-ts.canyonsdistrict.pvt (10.226.1.190)
+Host is up (0.00092s latency).
+All 1000 scanned ports on 708n-2020-ts.canyonsdistrict.pvt (10.226.1.190) are filtered
+MAC Address: C4:34:6B:62:6B:7C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-129.canyonsdistrict.pvt (10.226.1.194)
+Host is up (0.0031s latency).
+All 1000 scanned ports on 708s-g104-129.canyonsdistrict.pvt (10.226.1.194) are filtered
+MAC Address: 50:65:F3:46:78:3C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.195
+Host is up (0.095s latency).
+All 1000 scanned ports on 10.226.1.195 are filtered
+MAC Address: 8C:8E:F2:B8:41:B4 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for tangis-iphone.canyonsdistrict.pvt (10.226.1.196)
+Host is up (0.036s latency).
+All 1000 scanned ports on tangis-iphone.canyonsdistrict.pvt (10.226.1.196) are filtered
+MAC Address: 84:38:35:E9:AC:FE (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for tristons-iphone.canyonsdistrict.pvt (10.226.1.197)
+Host is up (0.0042s latency).
+All 1000 scanned ports on tristons-iphone.canyonsdistrict.pvt (10.226.1.197) are filtered
+MAC Address: 24:F0:94:77:B8:A6 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-31.canyonsdistrict.pvt (10.226.1.208)
+Host is up (0.0026s latency).
+All 1000 scanned ports on 708s-2006-31.canyonsdistrict.pvt (10.226.1.208) are filtered
+MAC Address: B4:B5:2F:C6:9B:72 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-209.canyonsdistrict.pvt (10.226.1.209)
+Host is up (0.0032s latency).
+All 1000 scanned ports on dhcp-10-226-1-209.canyonsdistrict.pvt (10.226.1.209) are filtered
+MAC Address: C0:8A:DE:1D:DA:B0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-114.canyonsdistrict.pvt (10.226.1.211)
+Host is up (0.0034s latency).
+All 1000 scanned ports on 708s-1053-114.canyonsdistrict.pvt (10.226.1.211) are filtered
+MAC Address: A0:48:1C:A9:B9:8A (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.214
+Host is up (0.0042s latency).
+All 1000 scanned ports on 10.226.1.214 are filtered
+MAC Address: 58:20:B1:4E:F6:95 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-13.canyonsdistrict.pvt (10.226.1.217)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708s-1023b-13.canyonsdistrict.pvt (10.226.1.217) are filtered
+MAC Address: 08:2E:5F:00:1D:C2 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-219.canyonsdistrict.pvt (10.226.1.219)
+Host is up (0.018s latency).
+All 1000 scanned ports on dhcp-10-226-1-219.canyonsdistrict.pvt (10.226.1.219) are filtered
+MAC Address: C0:8A:DE:1D:E7:60 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-f102-lapt.canyonsdistrict.pvt (10.226.1.221)
+Host is up (0.0020s latency).
+All 1000 scanned ports on 708n-f102-lapt.canyonsdistrict.pvt (10.226.1.221) are filtered
+MAC Address: 30:52:CB:9D:F4:6A (Liteon Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.229
+Host is up (0.0077s latency).
+All 1000 scanned ports on 10.226.1.229 are filtered
+MAC Address: A4:B8:05:A2:AD:92 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-777ff113d36a8de7.canyonsdistrict.pvt (10.226.1.233)
+Host is up (0.097s latency).
+All 1000 scanned ports on android-777ff113d36a8de7.canyonsdistrict.pvt (10.226.1.233) are filtered
+MAC Address: 60:E3:AC:DA:AA:C0 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-08c.canyonsdistrict.pvt (10.226.1.234)
+Host is up (0.0017s latency).
+All 1000 scanned ports on 708s-1023-08c.canyonsdistrict.pvt (10.226.1.234) are filtered
+MAC Address: C4:34:6B:68:5A:96 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-123.canyonsdistrict.pvt (10.226.1.235)
+Host is up (0.0038s latency).
+All 1000 scanned ports on 708s-g104-123.canyonsdistrict.pvt (10.226.1.235) are filtered
+MAC Address: 48:0F:CF:31:86:E3 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for suzies-ipad.canyonsdistrict.pvt (10.226.1.236)
+Host is up (0.091s latency).
+All 1000 scanned ports on suzies-ipad.canyonsdistrict.pvt (10.226.1.236) are filtered
+MAC Address: 18:EE:69:C4:67:97 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1558-lapt.canyonsdistrict.pvt (10.226.1.239)
+Host is up (0.024s latency).
+All 1000 scanned ports on 708n-1558-lapt.canyonsdistrict.pvt (10.226.1.239) are filtered
+MAC Address: B8:86:87:E6:C8:30 (Liteon Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-104.canyonsdistrict.pvt (10.226.1.243)
+Host is up (0.0044s latency).
+All 1000 scanned ports on 708s-1541-104.canyonsdistrict.pvt (10.226.1.243) are filtered
+MAC Address: 68:5B:35:B7:83:38 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-01.canyonsdistrict.pvt (10.226.1.249)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-1023-01.canyonsdistrict.pvt (10.226.1.249) are filtered
+MAC Address: 24:BE:05:15:F5:88 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-1-250.canyonsdistrict.pvt (10.226.1.250)
+Host is up (0.046s latency).
+All 1000 scanned ports on dhcp-10-226-1-250.canyonsdistrict.pvt (10.226.1.250) are filtered
+MAC Address: 10:4A:7D:D3:9A:3C (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-16.canyonsdistrict.pvt (10.226.1.251)
+Host is up (0.00083s latency).
+All 1000 scanned ports on 708s-1023-16.canyonsdistrict.pvt (10.226.1.251) are filtered
+MAC Address: 24:BE:05:14:B3:59 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-26.canyonsdistrict.pvt (10.226.1.252)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-g101-26.canyonsdistrict.pvt (10.226.1.252) are filtered
+MAC Address: 64:51:06:60:9C:9F (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.1.253
+Host is up (0.020s latency).
+All 1000 scanned ports on 10.226.1.253 are filtered
+MAC Address: 18:65:90:87:40:13 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g102-136.canyonsdistrict.pvt (10.226.1.255)
+Host is up (0.0026s latency).
+All 1000 scanned ports on 708s-g102-136.canyonsdistrict.pvt (10.226.1.255) are filtered
+MAC Address: F0:92:1C:EA:A6:4F (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.0
+Host is up (0.079s latency).
+All 1000 scanned ports on 10.226.2.0 are filtered
+MAC Address: C8:E0:EB:5A:7D:01 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-2001-cs1.canyonsdistrict.pvt (10.226.2.1)
+Host is up (0.00073s latency).
+All 1000 scanned ports on 708n-2001-cs1.canyonsdistrict.pvt (10.226.2.1) are filtered
+MAC Address: 00:23:24:25:6C:0E (G-pro Computer)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-18.canyonsdistrict.pvt (10.226.2.3)
+Host is up (0.0031s latency).
+All 1000 scanned ports on 708s-1023-18.canyonsdistrict.pvt (10.226.2.3) are filtered
+MAC Address: 24:BE:05:1F:83:C4 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-17.canyonsdistrict.pvt (10.226.2.6)
+Host is up (0.00085s latency).
+All 1000 scanned ports on 708s-g101-17.canyonsdistrict.pvt (10.226.2.6) are filtered
+MAC Address: 8C:DC:D4:27:5A:B5 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-01.canyonsdistrict.pvt (10.226.2.8)
+Host is up (0.0029s latency).
+All 1000 scanned ports on 708s-2006-01.canyonsdistrict.pvt (10.226.2.8) are filtered
+MAC Address: B4:B5:2F:C6:9A:AE (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1028n-03.canyonsdistrict.pvt (10.226.2.10)
+Host is up (0.0045s latency).
+All 1000 scanned ports on 708s-1028n-03.canyonsdistrict.pvt (10.226.2.10) are filtered
+MAC Address: 08:2E:5F:2A:18:12 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1028l-rs2.canyonsdistrict.pvt (10.226.2.11)
+Host is up (0.11s latency).
+All 1000 scanned ports on 708n-1028l-rs2.canyonsdistrict.pvt (10.226.2.11) are filtered
+MAC Address: 9C:D2:1E:AF:AB:C9 (Hon Hai Precision Ind.)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.12
+Host is up (0.0015s latency).
+All 1000 scanned ports on 10.226.2.12 are filtered
+MAC Address: 98:E7:F4:F7:C4:FD (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-110.canyonsdistrict.pvt (10.226.2.36)
+Host is up (0.00091s latency).
+All 1000 scanned ports on 708s-1541-110.canyonsdistrict.pvt (10.226.2.36) are filtered
+MAC Address: 68:5B:35:C1:04:D9 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-39.canyonsdistrict.pvt (10.226.2.38)
+Host is up (0.00098s latency).
+All 1000 scanned ports on 708s-1023b-39.canyonsdistrict.pvt (10.226.2.38) are filtered
+MAC Address: 08:2E:5F:06:C0:C3 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-h101-kp-3.canyonsdistrict.pvt (10.226.2.40)
+Host is up (0.010s latency).
+All 1000 scanned ports on 708n-h101-kp-3.canyonsdistrict.pvt (10.226.2.40) are filtered
+MAC Address: 9C:F3:87:CB:99:EC (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-41.canyonsdistrict.pvt (10.226.2.41)
+Host is up (0.069s latency).
+All 1000 scanned ports on dhcp-10-226-2-41.canyonsdistrict.pvt (10.226.2.41) are filtered
+MAC Address: 10:1C:0C:A1:E8:EA (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-e104-k01.canyonsdistrict.pvt (10.226.2.57)
+Host is up (0.015s latency).
+All 1000 scanned ports on 708n-e104-k01.canyonsdistrict.pvt (10.226.2.57) are filtered
+MAC Address: 00:0F:FE:FD:DD:65 (G-pro Computer)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for taya-s-iphone.canyonsdistrict.pvt (10.226.2.62)
+Host is up (0.027s latency).
+All 1000 scanned ports on taya-s-iphone.canyonsdistrict.pvt (10.226.2.62) are filtered
+MAC Address: 84:A1:34:94:14:B0 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-7405da7d48e38145.canyonsdistrict.pvt (10.226.2.64)
+Host is up (0.0033s latency).
+All 1000 scanned ports on android-7405da7d48e38145.canyonsdistrict.pvt (10.226.2.64) are filtered
+MAC Address: 90:B6:86:DD:B6:0E (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-5d9da35cc1fa220a.canyonsdistrict.pvt (10.226.2.67)
+Host is up (0.15s latency).
+All 1000 scanned ports on android-5d9da35cc1fa220a.canyonsdistrict.pvt (10.226.2.67) are filtered
+MAC Address: 50:C8:E5:9F:D9:BB (Samsung Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for ravens-iphone.canyonsdistrict.pvt (10.226.2.68)
+Host is up (0.0045s latency).
+All 1000 scanned ports on ravens-iphone.canyonsdistrict.pvt (10.226.2.68) are filtered
+MAC Address: 6C:8D:C1:82:12:5F (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-cc-ap-01.canyonsdistrict.pvt (10.226.2.75)
+Host is up (0.0018s latency).
+All 1000 scanned ports on 708n-cc-ap-01.canyonsdistrict.pvt (10.226.2.75) are filtered
+MAC Address: DC:4A:3E:7F:B3:FB (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-76.canyonsdistrict.pvt (10.226.2.76)
+Host is up (0.0018s latency).
+All 1000 scanned ports on dhcp-10-226-2-76.canyonsdistrict.pvt (10.226.2.76) are filtered
+MAC Address: C0:8A:DE:1D:F2:C0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-10.canyonsdistrict.pvt (10.226.2.78)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-1023-10.canyonsdistrict.pvt (10.226.2.78) are filtered
+MAC Address: 24:BE:05:14:B3:56 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-11.canyonsdistrict.pvt (10.226.2.80)
+Host is up (0.0013s latency).
+All 1000 scanned ports on 708s-1023-11.canyonsdistrict.pvt (10.226.2.80) are filtered
+MAC Address: 24:BE:05:1A:19:54 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-lmc-mbl01.canyonsdistrict.pvt (10.226.2.82)
+Host is up (0.076s latency).
+All 1000 scanned ports on 708n-lmc-mbl01.canyonsdistrict.pvt (10.226.2.82) are filtered
+MAC Address: A4:17:31:9E:BE:2A (Hon Hai Precision Ind.)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-bc58faa8aa557308.canyonsdistrict.pvt (10.226.2.84)
+Host is up (0.0017s latency).
+All 1000 scanned ports on android-bc58faa8aa557308.canyonsdistrict.pvt (10.226.2.84) are filtered
+MAC Address: FC:C2:DE:AB:7E:0B (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-63c6c87035fd09c7.canyonsdistrict.pvt (10.226.2.85)
+Host is up (0.031s latency).
+All 1000 scanned ports on android-63c6c87035fd09c7.canyonsdistrict.pvt (10.226.2.85) are filtered
+MAC Address: C0:BD:D1:A5:FF:ED (Samsung Electro Mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-89.canyonsdistrict.pvt (10.226.2.89)
+Host is up (0.00098s latency).
+All 1000 scanned ports on dhcp-10-226-2-89.canyonsdistrict.pvt (10.226.2.89) are filtered
+MAC Address: C0:8A:DE:1D:EA:70 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g102-106.canyonsdistrict.pvt (10.226.2.91)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708s-g102-106.canyonsdistrict.pvt (10.226.2.91) are filtered
+MAC Address: F0:92:1C:EA:AA:1C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-20.canyonsdistrict.pvt (10.226.2.93)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-1023-20.canyonsdistrict.pvt (10.226.2.93) are filtered
+MAC Address: 24:BE:05:1A:19:57 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-94.canyonsdistrict.pvt (10.226.2.94)
+Host is up (0.00081s latency).
+All 1000 scanned ports on dhcp-10-226-2-94.canyonsdistrict.pvt (10.226.2.94) are filtered
+MAC Address: C0:8A:DE:1D:DB:D0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-j206-mj-02.canyonsdistrict.pvt (10.226.2.96)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708n-j206-mj-02.canyonsdistrict.pvt (10.226.2.96) are filtered
+MAC Address: DC:4A:3E:88:8B:E2 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-i210-1cl.canyonsdistrict.pvt (10.226.2.103)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708n-i210-1cl.canyonsdistrict.pvt (10.226.2.103) are filtered
+MAC Address: C4:34:6B:62:6B:69 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for gregs-iphone.canyonsdistrict.pvt (10.226.2.106)
+Host is up (0.0024s latency).
+All 1000 scanned ports on gregs-iphone.canyonsdistrict.pvt (10.226.2.106) are filtered
+MAC Address: 34:12:98:ED:34:D4 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for joes-i-phone.canyonsdistrict.pvt (10.226.2.107)
+Host is up (0.076s latency).
+All 1000 scanned ports on joes-i-phone.canyonsdistrict.pvt (10.226.2.107) are filtered
+MAC Address: DC:9B:9C:07:E4:C6 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-i205-el-01.canyonsdistrict.pvt (10.226.2.115)
+Host is up (0.0020s latency).
+All 1000 scanned ports on 708n-i205-el-01.canyonsdistrict.pvt (10.226.2.115) are filtered
+MAC Address: 98:E7:F4:F7:C4:19 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-10.canyonsdistrict.pvt (10.226.2.124)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-g101-10.canyonsdistrict.pvt (10.226.2.124) are filtered
+MAC Address: 8C:DC:D4:29:C4:A3 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-126.canyonsdistrict.pvt (10.226.2.126)
+Host is up (0.039s latency).
+All 1000 scanned ports on dhcp-10-226-2-126.canyonsdistrict.pvt (10.226.2.126) are filtered
+MAC Address: A4:C4:94:48:8D:A7 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for iphone-35.canyonsdistrict.pvt (10.226.2.127)
+Host is up (0.0036s latency).
+All 1000 scanned ports on iphone-35.canyonsdistrict.pvt (10.226.2.127) are filtered
+MAC Address: A4:5E:60:43:BE:8B (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.130
+Host is up (0.0080s latency).
+All 1000 scanned ports on 10.226.2.130 are filtered
+MAC Address: 28:ED:6A:ED:42:B0 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-132.canyonsdistrict.pvt (10.226.2.132)
+Host is up (0.0014s latency).
+All 1000 scanned ports on dhcp-10-226-2-132.canyonsdistrict.pvt (10.226.2.132) are filtered
+MAC Address: 00:04:F2:38:7F:52 (Polycom)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-13006b164f7f790b.canyonsdistrict.pvt (10.226.2.136)
+Host is up (0.081s latency).
+All 1000 scanned ports on android-13006b164f7f790b.canyonsdistrict.pvt (10.226.2.136) are filtered
+MAC Address: AC:37:43:00:D0:3B (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-138.canyonsdistrict.pvt (10.226.2.138)
+Host is up (0.069s latency).
+All 1000 scanned ports on dhcp-10-226-2-138.canyonsdistrict.pvt (10.226.2.138) are filtered
+MAC Address: 58:91:CF:18:23:B5 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.139
+Host is up (0.17s latency).
+All 1000 scanned ports on 10.226.2.139 are filtered
+MAC Address: 94:E9:6A:53:D8:FC (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-11.canyonsdistrict.pvt (10.226.2.141)
+Host is up (0.0061s latency).
+All 1000 scanned ports on 708s-g101-11.canyonsdistrict.pvt (10.226.2.141) are filtered
+MAC Address: 8C:DC:D4:27:5B:25 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1045-29.canyonsdistrict.pvt (10.226.2.142)
+Host is up (0.0063s latency).
+All 1000 scanned ports on 708s-1045-29.canyonsdistrict.pvt (10.226.2.142) are filtered
+MAC Address: F0:92:1C:E3:83:76 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-75a942994d0288ed.canyonsdistrict.pvt (10.226.2.144)
+Host is up (0.058s latency).
+All 1000 scanned ports on android-75a942994d0288ed.canyonsdistrict.pvt (10.226.2.144) are filtered
+MAC Address: B4:74:43:F8:D3:11 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-06.canyonsdistrict.pvt (10.226.2.146)
+Host is up (0.0014s latency).
+All 1000 scanned ports on 708s-1023b-06.canyonsdistrict.pvt (10.226.2.146) are filtered
+MAC Address: 08:2E:5F:04:C5:CA (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-e114-kd.canyonsdistrict.pvt (10.226.2.148)
+Host is up (0.0018s latency).
+All 1000 scanned ports on 708n-e114-kd.canyonsdistrict.pvt (10.226.2.148) are filtered
+MAC Address: 6C:3B:E5:27:8A:51 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.150
+Host is up (0.036s latency).
+All 1000 scanned ports on 10.226.2.150 are filtered
+MAC Address: B8:4F:D5:36:A7:50 (Microsoft)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for sabres-iphone.canyonsdistrict.pvt (10.226.2.154)
+Host is up (0.45s latency).
+All 1000 scanned ports on sabres-iphone.canyonsdistrict.pvt (10.226.2.154) are filtered
+MAC Address: 6C:8D:C1:46:11:1C (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-32.canyonsdistrict.pvt (10.226.2.155)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-1023b-32.canyonsdistrict.pvt (10.226.2.155) are filtered
+MAC Address: 08:2E:5F:02:9A:C5 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-157.canyonsdistrict.pvt (10.226.2.157)
+Host is up (0.0012s latency).
+All 1000 scanned ports on dhcp-10-226-2-157.canyonsdistrict.pvt (10.226.2.157) are filtered
+MAC Address: C0:8A:DE:1D:F0:F0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-15.canyonsdistrict.pvt (10.226.2.160)
+Host is up (0.0066s latency).
+All 1000 scanned ports on 708s-1023b-15.canyonsdistrict.pvt (10.226.2.160) are filtered
+MAC Address: 08:2E:5F:02:9A:9B (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-162.canyonsdistrict.pvt (10.226.2.162)
+Host is up (0.019s latency).
+All 1000 scanned ports on dhcp-10-226-2-162.canyonsdistrict.pvt (10.226.2.162) are filtered
+MAC Address: 7C:B0:C2:41:D0:A7 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1544-ks.canyonsdistrict.pvt (10.226.2.167)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708n-1544-ks.canyonsdistrict.pvt (10.226.2.167) are filtered
+MAC Address: 24:BE:05:15:F5:A4 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-e1dd51659d8d7a2a.canyonsdistrict.pvt (10.226.2.169)
+Host is up (0.33s latency).
+All 1000 scanned ports on android-e1dd51659d8d7a2a.canyonsdistrict.pvt (10.226.2.169) are filtered
+MAC Address: 9C:D9:17:C2:6E:DF (Motorola Mobility, a Lenovo Company)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1028d-rs2.canyonsdistrict.pvt (10.226.2.175)
+Host is up (0.00076s latency).
+All 1000 scanned ports on 708n-1028d-rs2.canyonsdistrict.pvt (10.226.2.175) are filtered
+MAC Address: C8:0A:A9:F5:2C:2B (Quanta Computer)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipad-302.canyonsdistrict.pvt (10.226.2.178)
+Host is up (0.046s latency).
+All 1000 scanned ports on 708-ipad-302.canyonsdistrict.pvt (10.226.2.178) are filtered
+MAC Address: A4:D1:D2:16:26:05 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-34.canyonsdistrict.pvt (10.226.2.179)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-1023b-34.canyonsdistrict.pvt (10.226.2.179) are filtered
+MAC Address: 08:2E:5F:04:C5:EC (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-dba5fab77afeee93.canyonsdistrict.pvt (10.226.2.183)
+Host is up (0.019s latency).
+All 1000 scanned ports on android-dba5fab77afeee93.canyonsdistrict.pvt (10.226.2.183) are filtered
+MAC Address: 90:B6:86:30:03:44 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for ruben.canyonsdistrict.pvt (10.226.2.184)
+Host is up (0.041s latency).
+All 1000 scanned ports on ruben.canyonsdistrict.pvt (10.226.2.184) are filtered
+MAC Address: FC:E9:98:06:09:09 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-mo-ts.canyonsdistrict.pvt (10.226.2.187)
+Host is up (0.0029s latency).
+All 1000 scanned ports on 708n-mo-ts.canyonsdistrict.pvt (10.226.2.187) are filtered
+MAC Address: AC:16:2D:0A:D3:DB (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for bro123.canyonsdistrict.pvt (10.226.2.188)
+Host is up (0.045s latency).
+All 1000 scanned ports on bro123.canyonsdistrict.pvt (10.226.2.188) are filtered
+MAC Address: 00:CD:FE:8C:39:DA (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-202.canyonsdistrict.pvt (10.226.2.189)
+Host is up (0.00093s latency).
+All 1000 scanned ports on 708s-2004-202.canyonsdistrict.pvt (10.226.2.189) are filtered
+MAC Address: C4:34:6B:62:6C:C0 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-108.canyonsdistrict.pvt (10.226.2.190)
+Host is up (0.0015s latency).
+All 1000 scanned ports on 708s-g104-108.canyonsdistrict.pvt (10.226.2.190) are filtered
+MAC Address: 50:65:F3:46:78:C0 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.191
+Host is up (0.0082s latency).
+All 1000 scanned ports on 10.226.2.191 are filtered
+MAC Address: A8:66:7F:44:33:2D (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-2-192.canyonsdistrict.pvt (10.226.2.192)
+Host is up (0.038s latency).
+All 1000 scanned ports on dhcp-10-226-2-192.canyonsdistrict.pvt (10.226.2.192) are filtered
+MAC Address: 58:91:CF:17:81:C1 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-9f1984c1b6fda0c8.canyonsdistrict.pvt (10.226.2.198)
+Host is up (0.085s latency).
+All 1000 scanned ports on android-9f1984c1b6fda0c8.canyonsdistrict.pvt (10.226.2.198) are filtered
+MAC Address: 38:AA:3C:5D:A6:41 (Samsung Electro-mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-c143c47fae38a7c3.canyonsdistrict.pvt (10.226.2.199)
+Host is up (0.0014s latency).
+All 1000 scanned ports on android-c143c47fae38a7c3.canyonsdistrict.pvt (10.226.2.199) are filtered
+MAC Address: 90:B6:86:7D:BF:5F (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-202.canyonsdistrict.pvt (10.226.2.203)
+Host is up (0.090s latency).
+All 1000 scanned ports on 708-ipadmini-202.canyonsdistrict.pvt (10.226.2.203) are filtered
+MAC Address: 10:1C:0C:9F:EE:26 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-105.canyonsdistrict.pvt (10.226.2.204)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708s-g104-105.canyonsdistrict.pvt (10.226.2.204) are filtered
+MAC Address: 50:65:F3:46:78:C8 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-32.canyonsdistrict.pvt (10.226.2.207)
+Host is up (0.00088s latency).
+All 1000 scanned ports on 708s-2006-32.canyonsdistrict.pvt (10.226.2.207) are filtered
+MAC Address: E8:39:35:3D:65:BC (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.2.208
+Host is up (0.0011s latency).
+All 1000 scanned ports on 10.226.2.208 are filtered
+MAC Address: 00:90:8F:3D:28:8C (Audio Codes)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-210.canyonsdistrict.pvt (10.226.2.212)
+Host is up (0.0072s latency).
+All 1000 scanned ports on 708s-2004-210.canyonsdistrict.pvt (10.226.2.212) are filtered
+MAC Address: C4:34:6B:68:5A:65 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1045-34.canyonsdistrict.pvt (10.226.2.213)
+Host is up (0.0074s latency).
+All 1000 scanned ports on 708s-1045-34.canyonsdistrict.pvt (10.226.2.213) are filtered
+MAC Address: C4:34:6B:6A:C5:70 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-3c.canyonsdistrict.pvt (10.226.2.214)
+Host is up (0.0078s latency).
+All 1000 scanned ports on 708s-1023-3c.canyonsdistrict.pvt (10.226.2.214) are filtered
+MAC Address: C4:34:6B:62:6B:79 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-31.canyonsdistrict.pvt (10.226.2.217)
+Host is up (0.0043s latency).
+All 1000 scanned ports on 708s-1023b-31.canyonsdistrict.pvt (10.226.2.217) are filtered
+MAC Address: 08:2E:5F:02:D1:5D (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-i207-1rh.canyonsdistrict.pvt (10.226.2.218)
+Host is up (0.0045s latency).
+All 1000 scanned ports on 708n-i207-1rh.canyonsdistrict.pvt (10.226.2.218) are filtered
+MAC Address: C4:34:6B:68:5A:66 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for pussy.canyonsdistrict.pvt (10.226.2.219)
+Host is up (0.095s latency).
+All 1000 scanned ports on pussy.canyonsdistrict.pvt (10.226.2.219) are filtered
+MAC Address: 2C:B4:3A:65:1A:43 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for caytees-iphone.canyonsdistrict.pvt (10.226.2.220)
+Host is up (0.0096s latency).
+All 1000 scanned ports on caytees-iphone.canyonsdistrict.pvt (10.226.2.220) are filtered
+MAC Address: 4C:7C:5F:26:C4:60 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-135.canyonsdistrict.pvt (10.226.2.221)
+Host is up (0.0014s latency).
+All 1000 scanned ports on 708s-1541-135.canyonsdistrict.pvt (10.226.2.221) are filtered
+MAC Address: 68:5B:35:B8:6A:5E (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for kevens-iphone.canyonsdistrict.pvt (10.226.2.225)
+Host is up (0.090s latency).
+All 1000 scanned ports on kevens-iphone.canyonsdistrict.pvt (10.226.2.225) are filtered
+MAC Address: 4C:57:CA:56:57:6E (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dlswog.canyonsdistrict.pvt (10.226.2.226)
+Host is up (0.095s latency).
+All 1000 scanned ports on dlswog.canyonsdistrict.pvt (10.226.2.226) are filtered
+MAC Address: 0C:51:01:14:25:EA (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-d5761c2a5a8a7a94.canyonsdistrict.pvt (10.226.2.229)
+Host is up (3.2s latency).
+All 1000 scanned ports on android-d5761c2a5a8a7a94.canyonsdistrict.pvt (10.226.2.229) are filtered
+MAC Address: F4:09:D8:EB:52:11 (Samsung Electro Mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-103.canyonsdistrict.pvt (10.226.2.233)
+Host is up (0.0015s latency).
+All 1000 scanned ports on 708s-1053-103.canyonsdistrict.pvt (10.226.2.233) are filtered
+MAC Address: A0:D3:C1:07:D7:FE (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-101.canyonsdistrict.pvt (10.226.2.235)
+Host is up (0.00097s latency).
+All 1000 scanned ports on 708s-1541-101.canyonsdistrict.pvt (10.226.2.235) are filtered
+MAC Address: 68:5B:35:C6:8A:7C (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-214.canyonsdistrict.pvt (10.226.2.236)
+Host is up (0.00087s latency).
+All 1000 scanned ports on 708s-2004-214.canyonsdistrict.pvt (10.226.2.236) are filtered
+MAC Address: C4:34:6B:62:6A:D5 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for brynns-phone.canyonsdistrict.pvt (10.226.2.237)
+Host is up (0.072s latency).
+All 1000 scanned ports on brynns-phone.canyonsdistrict.pvt (10.226.2.237) are filtered
+MAC Address: B4:F0:AB:29:49:22 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-280545c0f4d603cb.canyonsdistrict.pvt (10.226.2.247)
+Host is up (0.16s latency).
+All 1000 scanned ports on android-280545c0f4d603cb.canyonsdistrict.pvt (10.226.2.247) are filtered
+MAC Address: 7C:0B:C6:E2:A1:A6 (Samsung Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-34.canyonsdistrict.pvt (10.226.2.248)
+Host is up (0.0018s latency).
+All 1000 scanned ports on 708s-g101-34.canyonsdistrict.pvt (10.226.2.248) are filtered
+MAC Address: 8C:DC:D4:25:E1:09 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for kileysipodtouch.canyonsdistrict.pvt (10.226.2.251)
+Host is up (0.097s latency).
+All 1000 scanned ports on kileysipodtouch.canyonsdistrict.pvt (10.226.2.251) are filtered
+MAC Address: 68:AE:20:73:2D:26 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-82d0dc5bebb1b6ad.canyonsdistrict.pvt (10.226.2.253)
+Host is up (0.0065s latency).
+All 1000 scanned ports on android-82d0dc5bebb1b6ad.canyonsdistrict.pvt (10.226.2.253) are filtered
+MAC Address: 88:07:4B:C5:3D:10 (LG Electronics (Mobile Communications))
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1030-cc2.canyonsdistrict.pvt (10.226.2.255)
+Host is up (0.00099s latency).
+All 1000 scanned ports on 708n-1030-cc2.canyonsdistrict.pvt (10.226.2.255) are filtered
+MAC Address: 64:51:06:60:9A:50 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1538-1tb.canyonsdistrict.pvt (10.226.3.1)
+Host is up (0.0015s latency).
+All 1000 scanned ports on 708s-1538-1tb.canyonsdistrict.pvt (10.226.3.1) are filtered
+MAC Address: C4:34:6B:68:5A:68 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-c104-reci.canyonsdistrict.pvt (10.226.3.3)
+Host is up (0.064s latency).
+All 1000 scanned ports on 708n-c104-reci.canyonsdistrict.pvt (10.226.3.3) are filtered
+MAC Address: 08:2E:5F:23:3D:72 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-b8104aa60767f8ca.canyonsdistrict.pvt (10.226.3.5)
+Host is up (0.34s latency).
+All 1000 scanned ports on android-b8104aa60767f8ca.canyonsdistrict.pvt (10.226.3.5) are filtered
+MAC Address: 34:23:BA:77:BF:F0 (Samsung Electro Mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-464b132f404131b9.canyonsdistrict.pvt (10.226.3.8)
+Host is up (0.067s latency).
+All 1000 scanned ports on android-464b132f404131b9.canyonsdistrict.pvt (10.226.3.8) are filtered
+MAC Address: 00:AE:FA:7B:9A:D9 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-104.canyonsdistrict.pvt (10.226.3.11)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708s-g104-104.canyonsdistrict.pvt (10.226.3.11) are filtered
+MAC Address: 50:65:F3:46:78:C2 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 080n-ft-jg-01.canyonsdistrict.pvt (10.226.3.15)
+Host is up (0.025s latency).
+All 1000 scanned ports on 080n-ft-jg-01.canyonsdistrict.pvt (10.226.3.15) are filtered
+MAC Address: 5C:96:9D:84:2A:E7 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for jesuss-iphone.canyonsdistrict.pvt (10.226.3.17)
+Host is up (0.096s latency).
+All 1000 scanned ports on jesuss-iphone.canyonsdistrict.pvt (10.226.3.17) are filtered
+MAC Address: 60:F4:45:08:4A:52 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-19.canyonsdistrict.pvt (10.226.3.19)
+Host is up (0.0014s latency).
+All 1000 scanned ports on dhcp-10-226-3-19.canyonsdistrict.pvt (10.226.3.19) are filtered
+MAC Address: C0:8A:DE:1D:DE:D0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-g101-sm-01.canyonsdistrict.pvt (10.226.3.27)
+Host is up (0.014s latency).
+All 1000 scanned ports on 708n-g101-sm-01.canyonsdistrict.pvt (10.226.3.27) are filtered
+MAC Address: DC:4A:3E:88:8C:13 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-b8a032612e7e4467.canyonsdistrict.pvt (10.226.3.28)
+Host is up (0.086s latency).
+All 1000 scanned ports on android-b8a032612e7e4467.canyonsdistrict.pvt (10.226.3.28) are filtered
+MAC Address: FC:C2:DE:7F:C4:A2 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-32.canyonsdistrict.pvt (10.226.3.32)
+Host is up (0.011s latency).
+All 1000 scanned ports on dhcp-10-226-3-32.canyonsdistrict.pvt (10.226.3.32) are filtered
+MAC Address: 6C:AA:B3:0F:A8:00 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-37.canyonsdistrict.pvt (10.226.3.37)
+Host is up (0.00075s latency).
+All 1000 scanned ports on dhcp-10-226-3-37.canyonsdistrict.pvt (10.226.3.37) are filtered
+MAC Address: C4:10:8A:3F:24:60 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-38.canyonsdistrict.pvt (10.226.3.38)
+Host is up (0.0014s latency).
+All 1000 scanned ports on dhcp-10-226-3-38.canyonsdistrict.pvt (10.226.3.38) are filtered
+MAC Address: C0:8A:DE:1D:E8:90 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-324.canyonsdistrict.pvt (10.226.3.39)
+Host is up (0.0087s latency).
+All 1000 scanned ports on 708-ipadmini-324.canyonsdistrict.pvt (10.226.3.39) are filtered
+MAC Address: 68:9C:70:84:A2:6C (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.3.40
+Host is up (0.078s latency).
+All 1000 scanned ports on 10.226.3.40 are filtered
+MAC Address: 2C:1F:23:CE:7F:12 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.3.42
+Host is up (0.0094s latency).
+All 1000 scanned ports on 10.226.3.42 are filtered
+MAC Address: C8:E0:EB:42:8C:A5 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for larakimlsiphone.canyonsdistrict.pvt (10.226.3.43)
+Host is up (0.0034s latency).
+All 1000 scanned ports on larakimlsiphone.canyonsdistrict.pvt (10.226.3.43) are filtered
+MAC Address: 5C:F9:38:E4:E2:38 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for jaedyns-iphone.canyonsdistrict.pvt (10.226.3.44)
+Host is up (0.072s latency).
+All 1000 scanned ports on jaedyns-iphone.canyonsdistrict.pvt (10.226.3.44) are filtered
+MAC Address: 44:00:10:EC:E1:4B (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g104-124.canyonsdistrict.pvt (10.226.3.47)
+Host is up (0.0030s latency).
+All 1000 scanned ports on 708s-g104-124.canyonsdistrict.pvt (10.226.3.47) are filtered
+MAC Address: 50:65:F3:50:93:30 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for i.canyonsdistrict.pvt (10.226.3.58)
+Host is up (0.050s latency).
+All 1000 scanned ports on i.canyonsdistrict.pvt (10.226.3.58) are filtered
+MAC Address: F0:DC:E2:0A:79:71 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-26.canyonsdistrict.pvt (10.226.3.60)
+Host is up (0.00088s latency).
+All 1000 scanned ports on 708s-1023-26.canyonsdistrict.pvt (10.226.3.60) are filtered
+MAC Address: 24:BE:05:18:A0:B6 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-126.canyonsdistrict.pvt (10.226.3.63)
+Host is up (0.0021s latency).
+All 1000 scanned ports on 708s-1541-126.canyonsdistrict.pvt (10.226.3.63) are filtered
+MAC Address: 68:5B:35:C6:84:DD (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-68.canyonsdistrict.pvt (10.226.3.68)
+Host is up (0.0063s latency).
+All 1000 scanned ports on dhcp-10-226-3-68.canyonsdistrict.pvt (10.226.3.68) are filtered
+MAC Address: 10:4A:7D:D4:7D:99 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-213.canyonsdistrict.pvt (10.226.3.73)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708s-2004-213.canyonsdistrict.pvt (10.226.3.73) are filtered
+MAC Address: C4:34:6B:68:58:33 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-15.canyonsdistrict.pvt (10.226.3.76)
+Host is up (0.0024s latency).
+All 1000 scanned ports on 708s-1023-15.canyonsdistrict.pvt (10.226.3.76) are filtered
+MAC Address: 24:BE:05:15:F5:93 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-lmca-124.canyonsdistrict.pvt (10.226.3.77)
+Host is up (0.0027s latency).
+All 1000 scanned ports on 708s-lmca-124.canyonsdistrict.pvt (10.226.3.77) are filtered
+MAC Address: 8C:DC:D4:29:C4:CB (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-4dea9d10064c1d7c.canyonsdistrict.pvt (10.226.3.79)
+Host is up (0.0039s latency).
+All 1000 scanned ports on android-4dea9d10064c1d7c.canyonsdistrict.pvt (10.226.3.79) are filtered
+MAC Address: 90:B6:86:F0:6F:80 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-80.canyonsdistrict.pvt (10.226.3.80)
+Host is up (0.0034s latency).
+All 1000 scanned ports on dhcp-10-226-3-80.canyonsdistrict.pvt (10.226.3.80) are filtered
+MAC Address: C0:8A:DE:1D:E8:A0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-81.canyonsdistrict.pvt (10.226.3.81)
+Host is up (0.00085s latency).
+All 1000 scanned ports on dhcp-10-226-3-81.canyonsdistrict.pvt (10.226.3.81) are filtered
+MAC Address: C0:8A:DE:1D:E6:D0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-mo-ce.canyonsdistrict.pvt (10.226.3.82)
+Host is up (0.00089s latency).
+All 1000 scanned ports on 708n-mo-ce.canyonsdistrict.pvt (10.226.3.82) are filtered
+MAC Address: 6C:3B:E5:35:1D:79 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-lmca-121.canyonsdistrict.pvt (10.226.3.83)
+Host is up (0.00080s latency).
+All 1000 scanned ports on 708s-lmca-121.canyonsdistrict.pvt (10.226.3.83) are filtered
+MAC Address: 8C:DC:D4:29:C4:FC (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-16.canyonsdistrict.pvt (10.226.3.92)
+Host is up (0.0040s latency).
+All 1000 scanned ports on 708s-g101-16.canyonsdistrict.pvt (10.226.3.92) are filtered
+MAC Address: 8C:DC:D4:27:5B:0A (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.3.93
+Host is up (0.063s latency).
+All 1000 scanned ports on 10.226.3.93 are filtered
+MAC Address: B8:53:AC:52:51:EB (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-94.canyonsdistrict.pvt (10.226.3.94)
+Host is up (0.022s latency).
+All 1000 scanned ports on dhcp-10-226-3-94.canyonsdistrict.pvt (10.226.3.94) are filtered
+MAC Address: 00:6B:9E:82:87:1D (Vizio)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1019a-tp.canyonsdistrict.pvt (10.226.3.96)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708n-1019a-tp.canyonsdistrict.pvt (10.226.3.96) are filtered
+MAC Address: 24:BE:05:15:F5:A2 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-333.canyonsdistrict.pvt (10.226.3.99)
+Host is up (0.013s latency).
+All 1000 scanned ports on 708-ipadmini-333.canyonsdistrict.pvt (10.226.3.99) are filtered
+MAC Address: 68:9C:70:87:B9:F5 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1022e-ce-1.canyonsdistrict.pvt (10.226.3.103)
+Host is up (0.00082s latency).
+All 1000 scanned ports on 708n-1022e-ce-1.canyonsdistrict.pvt (10.226.3.103) are filtered
+MAC Address: 6C:3B:E5:0C:25:5B (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1538-lapt.canyonsdistrict.pvt (10.226.3.106)
+Host is up (0.00084s latency).
+All 1000 scanned ports on 708n-1538-lapt.canyonsdistrict.pvt (10.226.3.106) are filtered
+MAC Address: DC:4A:3E:05:11:98 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.3.108
+Host is up (0.0015s latency).
+All 1000 scanned ports on 10.226.3.108 are filtered
+MAC Address: 84:34:97:A3:15:F1 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-15.canyonsdistrict.pvt (10.226.3.110)
+Host is up (0.0016s latency).
+All 1000 scanned ports on 708s-g101-15.canyonsdistrict.pvt (10.226.3.110) are filtered
+MAC Address: 64:51:06:60:9D:00 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1550-dm1.canyonsdistrict.pvt (10.226.3.111)
+Host is up (0.0013s latency).
+All 1000 scanned ports on 708n-1550-dm1.canyonsdistrict.pvt (10.226.3.111) are filtered
+MAC Address: 24:BE:05:15:F5:83 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-140.canyonsdistrict.pvt (10.226.3.115)
+Host is up (0.0017s latency).
+All 1000 scanned ports on 708s-1053-140.canyonsdistrict.pvt (10.226.3.115) are filtered
+MAC Address: A0:48:1C:A9:B9:E3 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for jake-manhard.canyonsdistrict.pvt (10.226.3.117)
+Host is up (0.0055s latency).
+All 1000 scanned ports on jake-manhard.canyonsdistrict.pvt (10.226.3.117) are filtered
+MAC Address: 2C:F0:A2:17:4B:41 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708a-1518.canyonsdistrict.pvt (10.226.3.119)
+Host is up (0.021s latency).
+All 1000 scanned ports on 708a-1518.canyonsdistrict.pvt (10.226.3.119) are filtered
+MAC Address: 98:D6:BB:12:B5:E5 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-cbdef81eb841781e.canyonsdistrict.pvt (10.226.3.122)
+Host is up (0.45s latency).
+All 1000 scanned ports on android-cbdef81eb841781e.canyonsdistrict.pvt (10.226.3.122) are filtered
+MAC Address: C0:BD:D1:11:21:35 (Samsung Electro Mechanics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-a29aa88a9586c908.canyonsdistrict.pvt (10.226.3.130)
+Host is up (0.0020s latency).
+All 1000 scanned ports on android-a29aa88a9586c908.canyonsdistrict.pvt (10.226.3.130) are filtered
+MAC Address: 1C:99:4C:EF:D7:79 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-135.canyonsdistrict.pvt (10.226.3.135)
+Host is up (0.0054s latency).
+All 1000 scanned ports on dhcp-10-226-3-135.canyonsdistrict.pvt (10.226.3.135) are filtered
+MAC Address: A4:C4:94:3C:57:85 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-136.canyonsdistrict.pvt (10.226.3.136)
+Host is up (0.049s latency).
+All 1000 scanned ports on dhcp-10-226-3-136.canyonsdistrict.pvt (10.226.3.136) are filtered
+MAC Address: 00:24:73:5E:FF:97 (3com Europe)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for mckenziesiphone.canyonsdistrict.pvt (10.226.3.138)
+Host is up (0.012s latency).
+All 1000 scanned ports on mckenziesiphone.canyonsdistrict.pvt (10.226.3.138) are filtered
+MAC Address: 78:31:C1:24:16:60 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1045-26.canyonsdistrict.pvt (10.226.3.147)
+Host is up (0.0019s latency).
+All 1000 scanned ports on 708s-1045-26.canyonsdistrict.pvt (10.226.3.147) are filtered
+MAC Address: F0:92:1C:DD:6C:ED (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.3.154
+Host is up (0.00096s latency).
+All 1000 scanned ports on 10.226.3.154 are filtered
+MAC Address: 98:E7:F4:F7:C4:E0 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-123.canyonsdistrict.pvt (10.226.3.160)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708s-1541-123.canyonsdistrict.pvt (10.226.3.160) are filtered
+MAC Address: 68:5B:35:C6:7D:66 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-3998aaf1d3d67e3.canyonsdistrict.pvt (10.226.3.162)
+Host is up (0.018s latency).
+All 1000 scanned ports on android-3998aaf1d3d67e3.canyonsdistrict.pvt (10.226.3.162) are filtered
+MAC Address: BC:E6:3F:F1:85:E7 (Samsung Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1045-12.canyonsdistrict.pvt (10.226.3.164)
+Host is up (0.0025s latency).
+All 1000 scanned ports on 708s-1045-12.canyonsdistrict.pvt (10.226.3.164) are filtered
+MAC Address: 2C:44:FD:32:F5:AF (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-429ee66c3640ae0d.canyonsdistrict.pvt (10.226.3.166)
+Host is up (0.045s latency).
+All 1000 scanned ports on android-429ee66c3640ae0d.canyonsdistrict.pvt (10.226.3.166) are filtered
+MAC Address: FC:C2:DE:ED:20:45 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.3.169
+Host is up (0.0018s latency).
+All 1000 scanned ports on 10.226.3.169 are filtered
+MAC Address: 68:5B:35:B7:AE:FA (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1544-rm.canyonsdistrict.pvt (10.226.3.173)
+Host is up (0.00091s latency).
+All 1000 scanned ports on 708n-1544-rm.canyonsdistrict.pvt (10.226.3.173) are filtered
+MAC Address: 6C:3B:E5:25:96:05 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-124.canyonsdistrict.pvt (10.226.3.176)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708s-1053-124.canyonsdistrict.pvt (10.226.3.176) are filtered
+MAC Address: A0:D3:C1:0B:D3:AF (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g101-25.canyonsdistrict.pvt (10.226.3.177)
+Host is up (0.00098s latency).
+All 1000 scanned ports on 708s-g101-25.canyonsdistrict.pvt (10.226.3.177) are filtered
+MAC Address: 8C:DC:D4:29:C4:A5 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g102-135.canyonsdistrict.pvt (10.226.3.184)
+Host is up (0.0012s latency).
+All 1000 scanned ports on 708s-g102-135.canyonsdistrict.pvt (10.226.3.184) are filtered
+MAC Address: F0:92:1C:EA:AA:45 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-108.canyonsdistrict.pvt (10.226.3.186)
+Host is up (0.0020s latency).
+All 1000 scanned ports on 708s-1053-108.canyonsdistrict.pvt (10.226.3.186) are filtered
+MAC Address: A0:D3:C1:06:D1:EF (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-610b786d0a31d92d.canyonsdistrict.pvt (10.226.3.193)
+Host is up (0.051s latency).
+All 1000 scanned ports on android-610b786d0a31d92d.canyonsdistrict.pvt (10.226.3.193) are filtered
+MAC Address: 50:2E:5C:A1:D9:32 (HTC)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-j217-lapt.canyonsdistrict.pvt (10.226.3.198)
+Host is up (0.0027s latency).
+All 1000 scanned ports on 708n-j217-lapt.canyonsdistrict.pvt (10.226.3.198) are filtered
+MAC Address: B8:86:87:DA:F6:FF (Liteon Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-27.canyonsdistrict.pvt (10.226.3.199)
+Host is up (0.0022s latency).
+All 1000 scanned ports on 708s-2006-27.canyonsdistrict.pvt (10.226.3.199) are filtered
+MAC Address: E8:39:35:3D:66:0D (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-29.canyonsdistrict.pvt (10.226.3.202)
+Host is up (0.0013s latency).
+All 1000 scanned ports on 708s-1023-29.canyonsdistrict.pvt (10.226.3.202) are filtered
+MAC Address: 24:BE:05:15:F5:A6 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-218.canyonsdistrict.pvt (10.226.3.205)
+Host is up (0.10s latency).
+All 1000 scanned ports on 708-ipadmini-218.canyonsdistrict.pvt (10.226.3.205) are filtered
+MAC Address: 10:1C:0C:A0:F0:A0 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-207.canyonsdistrict.pvt (10.226.3.207)
+Host is up (0.00086s latency).
+All 1000 scanned ports on dhcp-10-226-3-207.canyonsdistrict.pvt (10.226.3.207) are filtered
+MAC Address: C0:8A:DE:1D:EE:40 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-3-210.canyonsdistrict.pvt (10.226.3.210)
+Host is up (0.00092s latency).
+All 1000 scanned ports on dhcp-10-226-3-210.canyonsdistrict.pvt (10.226.3.210) are filtered
+MAC Address: C0:8A:DE:1D:A7:00 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for petes-iphone-2.canyonsdistrict.pvt (10.226.3.214)
+Host is up (0.078s latency).
+All 1000 scanned ports on petes-iphone-2.canyonsdistrict.pvt (10.226.3.214) are filtered
+MAC Address: 54:4E:90:0E:77:45 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-135.canyonsdistrict.pvt (10.226.3.215)
+Host is up (0.0014s latency).
+All 1000 scanned ports on 708s-1053-135.canyonsdistrict.pvt (10.226.3.215) are filtered
+MAC Address: A0:48:1C:A9:2F:5A (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-32e49abf3bb1a610.canyonsdistrict.pvt (10.226.3.217)
+Host is up (0.052s latency).
+All 1000 scanned ports on android-32e49abf3bb1a610.canyonsdistrict.pvt (10.226.3.217) are filtered
+MAC Address: A0:39:F7:42:C3:4E (LG Electronics (Mobile Communications))
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-15.canyonsdistrict.pvt (10.226.3.222)
+Host is up (0.00091s latency).
+All 1000 scanned ports on 708s-2006-15.canyonsdistrict.pvt (10.226.3.222) are filtered
+MAC Address: B4:B5:2F:CD:8E:28 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-j221-as2.canyonsdistrict.pvt (10.226.3.224)
+Host is up (0.00083s latency).
+All 1000 scanned ports on 708n-j221-as2.canyonsdistrict.pvt (10.226.3.224) are filtered
+MAC Address: D4:85:64:B5:3D:EF (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-320.canyonsdistrict.pvt (10.226.3.227)
+Host is up (0.042s latency).
+All 1000 scanned ports on 708-ipadmini-320.canyonsdistrict.pvt (10.226.3.227) are filtered
+MAC Address: 68:9C:70:7B:2A:48 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-l202-1sc.canyonsdistrict.pvt (10.226.3.230)
+Host is up (0.00081s latency).
+All 1000 scanned ports on 708n-l202-1sc.canyonsdistrict.pvt (10.226.3.230) are filtered
+MAC Address: C4:34:6B:68:5A:69 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-233.canyonsdistrict.pvt (10.226.3.236)
+Host is up (0.00086s latency).
+All 1000 scanned ports on 708s-2004-233.canyonsdistrict.pvt (10.226.3.236) are filtered
+MAC Address: C4:34:6B:62:6C:BB (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-g102-107.canyonsdistrict.pvt (10.226.3.237)
+Host is up (0.00099s latency).
+All 1000 scanned ports on 708s-g102-107.canyonsdistrict.pvt (10.226.3.237) are filtered
+MAC Address: F0:92:1C:E3:EB:C2 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for janets-iphone.canyonsdistrict.pvt (10.226.3.238)
+Host is up (0.0029s latency).
+All 1000 scanned ports on janets-iphone.canyonsdistrict.pvt (10.226.3.238) are filtered
+MAC Address: 2C:F0:A2:A5:E3:AA (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-j203-offi.canyonsdistrict.pvt (10.226.3.240)
+Host is up (0.00074s latency).
+All 1000 scanned ports on 708n-j203-offi.canyonsdistrict.pvt (10.226.3.240) are filtered
+MAC Address: 08:2E:5F:2F:C0:64 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023b-33.canyonsdistrict.pvt (10.226.3.244)
+Host is up (0.00096s latency).
+All 1000 scanned ports on 708s-1023b-33.canyonsdistrict.pvt (10.226.3.244) are filtered
+MAC Address: 08:2E:5F:03:93:04 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-3cb10c26a3ad36b6.canyonsdistrict.pvt (10.226.3.248)
+Host is up (0.039s latency).
+All 1000 scanned ports on android-3cb10c26a3ad36b6.canyonsdistrict.pvt (10.226.3.248) are filtered
+MAC Address: 68:05:71:B2:62:AA (Samsung Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-30.canyonsdistrict.pvt (10.226.3.249)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708s-1023-30.canyonsdistrict.pvt (10.226.3.249) are filtered
+MAC Address: 24:BE:05:15:F5:A0 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.2
+Host is up (0.0014s latency).
+All 1000 scanned ports on 10.226.4.2 are filtered
+MAC Address: DC:4A:3E:06:1D:0C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-lmca-102.canyonsdistrict.pvt (10.226.4.3)
+Host is up (0.00088s latency).
+All 1000 scanned ports on 708s-lmca-102.canyonsdistrict.pvt (10.226.4.3) are filtered
+MAC Address: 8C:DC:D4:27:5B:2C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-d2ac128a1c77c5e9.canyonsdistrict.pvt (10.226.4.7)
+Host is up (0.0072s latency).
+All 1000 scanned ports on android-d2ac128a1c77c5e9.canyonsdistrict.pvt (10.226.4.7) are filtered
+MAC Address: 00:34:DA:75:B3:22 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-74ee17d34110e3dd.canyonsdistrict.pvt (10.226.4.11)
+Host is up (0.062s latency).
+All 1000 scanned ports on android-74ee17d34110e3dd.canyonsdistrict.pvt (10.226.4.11) are filtered
+MAC Address: 68:05:71:B2:63:50 (Samsung Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.14
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.226.4.14 are filtered
+MAC Address: 64:B0:A6:0C:EB:E1 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-2503-mp.canyonsdistrict.pvt (10.226.4.18)
+Host is up (0.0010s latency).
+All 1000 scanned ports on 708n-2503-mp.canyonsdistrict.pvt (10.226.4.18) are filtered
+MAC Address: D4:85:64:B5:3E:7D (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-d107-sy-l.canyonsdistrict.pvt (10.226.4.20)
+Host is up (0.0032s latency).
+All 1000 scanned ports on 708n-d107-sy-l.canyonsdistrict.pvt (10.226.4.20) are filtered
+MAC Address: 60:67:20:C0:69:40 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.21
+Host is up (0.050s latency).
+All 1000 scanned ports on 10.226.4.21 are filtered
+MAC Address: 68:DB:CA:94:4E:6E (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for da-phone.canyonsdistrict.pvt (10.226.4.22)
+Host is up (0.033s latency).
+All 1000 scanned ports on da-phone.canyonsdistrict.pvt (10.226.4.22) are filtered
+MAC Address: 00:56:CD:9D:13:0B (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-4-23.canyonsdistrict.pvt (10.226.4.23)
+Host is up (0.092s latency).
+All 1000 scanned ports on dhcp-10-226-4-23.canyonsdistrict.pvt (10.226.4.23) are filtered
+MAC Address: 80:1F:02:E4:7E:6D (Edimax Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-l203-bc-02.canyonsdistrict.pvt (10.226.4.24)
+Host is up (0.0036s latency).
+All 1000 scanned ports on 708n-l203-bc-02.canyonsdistrict.pvt (10.226.4.24) are filtered
+MAC Address: C8:E0:EB:42:44:7D (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-lmca-107.canyonsdistrict.pvt (10.226.4.25)
+Host is up (0.00096s latency).
+All 1000 scanned ports on 708s-lmca-107.canyonsdistrict.pvt (10.226.4.25) are filtered
+MAC Address: 64:51:06:60:9C:A9 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-d56dd6d648e80758.canyonsdistrict.pvt (10.226.4.28)
+Host is up (0.030s latency).
+All 1000 scanned ports on android-d56dd6d648e80758.canyonsdistrict.pvt (10.226.4.28) are filtered
+MAC Address: 60:E3:AC:FE:C3:3C (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-234.canyonsdistrict.pvt (10.226.4.36)
+Host is up (0.092s latency).
+All 1000 scanned ports on 708-ipadmini-234.canyonsdistrict.pvt (10.226.4.36) are filtered
+MAC Address: 10:1C:0C:B0:A3:C9 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-9cf65654aa241c2e.canyonsdistrict.pvt (10.226.4.39)
+Host is up (0.075s latency).
+All 1000 scanned ports on android-9cf65654aa241c2e.canyonsdistrict.pvt (10.226.4.39) are filtered
+MAC Address: FC:C2:DE:92:64:29 (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-4-41.canyonsdistrict.pvt (10.226.4.41)
+Host is up (0.00092s latency).
+All 1000 scanned ports on dhcp-10-226-4-41.canyonsdistrict.pvt (10.226.4.41) are filtered
+MAC Address: C0:8A:DE:1D:E7:50 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.42
+Host is up (0.0018s latency).
+All 1000 scanned ports on 10.226.4.42 are filtered
+MAC Address: 28:F0:76:02:67:72 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-125.canyonsdistrict.pvt (10.226.4.45)
+Host is up (0.084s latency).
+All 1000 scanned ports on 708-ipadmini-125.canyonsdistrict.pvt (10.226.4.45) are filtered
+MAC Address: 10:1C:0C:A1:E4:01 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for alliekatherine7.canyonsdistrict.pvt (10.226.4.47)
+Host is up (0.044s latency).
+All 1000 scanned ports on alliekatherine7.canyonsdistrict.pvt (10.226.4.47) are filtered
+MAC Address: B0:70:2D:24:F7:72 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-434.canyonsdistrict.pvt (10.226.4.51)
+Host is up (0.030s latency).
+All 1000 scanned ports on 708-ipadmini-434.canyonsdistrict.pvt (10.226.4.51) are filtered
+MAC Address: 68:9C:70:7B:2A:27 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-fca8cb65793cc023.canyonsdistrict.pvt (10.226.4.53)
+Host is up (0.048s latency).
+All 1000 scanned ports on android-fca8cb65793cc023.canyonsdistrict.pvt (10.226.4.53) are filtered
+MAC Address: 10:A5:D0:DF:6F:8E (Murata Manufacturing)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1028n-06.canyonsdistrict.pvt (10.226.4.54)
+Host is up (0.00089s latency).
+All 1000 scanned ports on 708s-1028n-06.canyonsdistrict.pvt (10.226.4.54) are filtered
+MAC Address: 08:2E:5F:27:F9:69 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 123n-sp-lh-01.canyonsdistrict.pvt (10.226.4.55)
+Host is up (0.0021s latency).
+All 1000 scanned ports on 123n-sp-lh-01.canyonsdistrict.pvt (10.226.4.55) are filtered
+MAC Address: A8:BB:CF:1B:84:E4 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-208.canyonsdistrict.pvt (10.226.4.56)
+Host is up (0.0018s latency).
+All 1000 scanned ports on 708s-2004-208.canyonsdistrict.pvt (10.226.4.56) are filtered
+MAC Address: C4:34:6B:68:58:F9 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-10.canyonsdistrict.pvt (10.226.4.58)
+Host is up (0.00079s latency).
+All 1000 scanned ports on 708s-2006-10.canyonsdistrict.pvt (10.226.4.58) are filtered
+MAC Address: B4:B5:2F:C6:9B:6B (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-4-67.canyonsdistrict.pvt (10.226.4.67)
+Host is up (0.00090s latency).
+All 1000 scanned ports on dhcp-10-226-4-67.canyonsdistrict.pvt (10.226.4.67) are filtered
+MAC Address: C0:8A:DE:1D:EF:60 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-4-68.canyonsdistrict.pvt (10.226.4.68)
+Host is up (0.00085s latency).
+All 1000 scanned ports on dhcp-10-226-4-68.canyonsdistrict.pvt (10.226.4.68) are filtered
+MAC Address: C0:8A:DE:1D:BD:50 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-b232cb56a875d843.canyonsdistrict.pvt (10.226.4.69)
+Host is up (0.063s latency).
+All 1000 scanned ports on android-b232cb56a875d843.canyonsdistrict.pvt (10.226.4.69) are filtered
+MAC Address: 4C:66:41:4D:08:44 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1541-134.canyonsdistrict.pvt (10.226.4.71)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708s-1541-134.canyonsdistrict.pvt (10.226.4.71) are filtered
+MAC Address: 68:5B:35:C6:0F:A1 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for caties-iphone-2.canyonsdistrict.pvt (10.226.4.74)
+Host is up (0.050s latency).
+All 1000 scanned ports on caties-iphone-2.canyonsdistrict.pvt (10.226.4.74) are filtered
+MAC Address: 1C:91:48:58:07:B1 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.75
+Host is up (0.092s latency).
+All 1000 scanned ports on 10.226.4.75 are filtered
+MAC Address: C0:1A:DA:C0:0F:B5 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-218d3e858ff16ea1.canyonsdistrict.pvt (10.226.4.78)
+Host is up (0.045s latency).
+All 1000 scanned ports on android-218d3e858ff16ea1.canyonsdistrict.pvt (10.226.4.78) are filtered
+MAC Address: 34:14:5F:64:CC:53 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2006-34.canyonsdistrict.pvt (10.226.4.82)
+Host is up (0.0014s latency).
+All 1000 scanned ports on 708s-2006-34.canyonsdistrict.pvt (10.226.4.82) are filtered
+MAC Address: B4:B5:2F:C6:9B:62 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-lmca-116.canyonsdistrict.pvt (10.226.4.84)
+Host is up (0.00089s latency).
+All 1000 scanned ports on 708s-lmca-116.canyonsdistrict.pvt (10.226.4.84) are filtered
+MAC Address: 8C:DC:D4:29:C4:F5 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.90
+Host is up (0.0093s latency).
+All 1000 scanned ports on 10.226.4.90 are filtered
+MAC Address: CC:20:E8:AA:86:3F (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-37.canyonsdistrict.pvt (10.226.4.93)
+Host is up (0.0011s latency).
+All 1000 scanned ports on 708s-1023-37.canyonsdistrict.pvt (10.226.4.93) are filtered
+MAC Address: 24:BE:05:18:A1:9C (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-1041-temp.canyonsdistrict.pvt (10.226.4.96)
+Host is up (0.0022s latency).
+All 1000 scanned ports on 708n-1041-temp.canyonsdistrict.pvt (10.226.4.96) are filtered
+MAC Address: 08:2E:5F:2E:0F:3E (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for vivianas-iphone.canyonsdistrict.pvt (10.226.4.99)
+Host is up (3.3s latency).
+All 1000 scanned ports on vivianas-iphone.canyonsdistrict.pvt (10.226.4.99) are filtered
+MAC Address: 24:A2:E1:67:86:18 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for doogie41.canyonsdistrict.pvt (10.226.4.100)
+Host is up (0.0044s latency).
+All 1000 scanned ports on doogie41.canyonsdistrict.pvt (10.226.4.100) are filtered
+MAC Address: 0C:D2:92:5A:B7:7F (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1028n-09.canyonsdistrict.pvt (10.226.4.101)
+Host is up (0.0020s latency).
+All 1000 scanned ports on 708s-1028n-09.canyonsdistrict.pvt (10.226.4.101) are filtered
+MAC Address: 08:2E:5F:2A:CE:79 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1023-07.canyonsdistrict.pvt (10.226.4.107)
+Host is up (0.0035s latency).
+All 1000 scanned ports on 708s-1023-07.canyonsdistrict.pvt (10.226.4.107) are filtered
+MAC Address: 24:BE:05:20:80:10 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-4-109.canyonsdistrict.pvt (10.226.4.109)
+Host is up (0.0022s latency).
+All 1000 scanned ports on dhcp-10-226-4-109.canyonsdistrict.pvt (10.226.4.109) are filtered
+MAC Address: C0:8A:DE:1D:E6:C0 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.110
+Host is up (0.031s latency).
+All 1000 scanned ports on 10.226.4.110 are filtered
+MAC Address: 38:71:DE:78:29:EC (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for android-6b07e05b4f37cae6.canyonsdistrict.pvt (10.226.4.113)
+Host is up (0.083s latency).
+All 1000 scanned ports on android-6b07e05b4f37cae6.canyonsdistrict.pvt (10.226.4.113) are filtered
+MAC Address: B4:EF:39:39:DD:01 (Samsung Electronics)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708n-j218-imac.canyonsdistrict.pvt (10.226.4.118)
+Host is up (0.0030s latency).
+All 1000 scanned ports on 708n-j218-imac.canyonsdistrict.pvt (10.226.4.118) are filtered
+MAC Address: 68:5B:35:90:1C:B1 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-2004-227.canyonsdistrict.pvt (10.226.4.124)
+Host is up (0.0017s latency).
+All 1000 scanned ports on 708s-2004-227.canyonsdistrict.pvt (10.226.4.124) are filtered
+MAC Address: C4:34:6B:68:58:E7 (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for dhcp-10-226-4-129.canyonsdistrict.pvt (10.226.4.129)
+Host is up (0.0037s latency).
+All 1000 scanned ports on dhcp-10-226-4-129.canyonsdistrict.pvt (10.226.4.129) are filtered
+MAC Address: C0:8A:DE:1D:ED:10 (Ruckus Wireless)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.132
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.226.4.132 are filtered
+MAC Address: 98:E7:F4:F7:B4:54 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.226.4.134
+Host is up (0.081s latency).
+All 1000 scanned ports on 10.226.4.134 are filtered
+MAC Address: B4:8B:19:BD:4F:E4 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708-ipadmini-207.canyonsdistrict.pvt (10.226.4.135)
+Host is up (0.090s latency).
+All 1000 scanned ports on 708-ipadmini-207.canyonsdistrict.pvt (10.226.4.135) are filtered
+MAC Address: 10:1C:0C:A1:C9:F3 (Apple)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 708s-1053-119.canyonsdistrict.pvt (10.226.4.137)
+Host is up (0.0047s latency).
+All 1000 scanned ports on 708s-1053-119.canyonsdistrict.pvt (10.226.4.137) are filtered
+MAC Address: A0:D3:C1:07:D7:FB (Hewlett Packard)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+

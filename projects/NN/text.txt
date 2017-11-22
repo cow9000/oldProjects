@@ -1,0 +1,17 @@
+Neural network ideas - 
+	Instead of having one neural network doing all the work, have each seperate network read one letter or symbol therefore reducing the complexity of each sperate neural network and allowing it to process more slowly, but more feasably.
+
+ Now inorder to train windmill to handle this, I need to start implementing multiple different methods of communication
+
+I need to allow other Neural Networks to extract information and talk to windmill, so windmill is now going to become a base plate for other neural networks. 
+
+Inorder to go around this, I need to make Windmill an API to allow other networks to communicate to it, not sure how, but I will find a way. 
+
+WHAATTTTTTTTTTT
+
+Idea mind blown, what if I had neural networks train a neural network, meaning feed it data. 
+
+Like, when one neural network can now accurately read the letter A, it gives its "brain" to Windmill, and that way I don't need a super comptuer to make a super complex system, I just need different computers giving its brain to Windmill.
+
+However, how would I go around doing something like this. I will think about it
+

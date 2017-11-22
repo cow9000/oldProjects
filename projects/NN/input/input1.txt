@@ -1,0 +1,21 @@
+#Comment
+#Output config file
+#Output1.txt
+
+#app = "Name of app"
+app = "quizlet";
+
+#population = HOW MUCH POPULATION SHOULD THERE BE
+population = "300";
+
+#type = ["Map","Strings","String","Script"]
+type = "Strings";
+
+#datafile = "data file name"
+datafile = "data1.txt";
+
+#outputfile = "output file name"
+outputfile = "output1.txt";
+
+#fitnessfile = "where the fitness file is located"
+fitnessfile = "fitness1.txt";

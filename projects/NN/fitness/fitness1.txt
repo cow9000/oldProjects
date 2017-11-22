@@ -1,0 +1,26 @@
+#Fitness 1 example file
+#This file determines how fitness will be measured. Like Combinations, etc.
+
+#fitness = ["on","off"]
+#When fitness is off, it will just randomly start guessing and get more complex. this option is given
+#because if you have no idea how to determine it will just start doing crap.
+fitness = "on";
+
+#determining fitness is a complicated manner
+#if it is a game you can determine how far it travels
+#or how long it survives, etc.
+#fitnesstype = ["equation","equals"]
+fitnesstype = "equation";
+#equation vars (This is an equation)
+#player.x
+#player.y
+#game.time
+#game.score
+#game.items
+#game.lives
+equation = "player.x";
+#if the fitness type is equals then you need to put in the equal file that has the inputs equaling the outputs, otherwise just put in equal1.txt and keep fitnessadd equals 0 aswell as fitnessremove
+equals = "equal1.txt";
+fitnessadd = "0";
+fitnessremove = "0";
+

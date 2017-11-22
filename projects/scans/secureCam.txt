@@ -1,0 +1,1098 @@
+
+Starting Nmap 7.25BETA1 ( https://nmap.org ) at 2017-01-10 17:36 MST
+Nmap scan report for 10.227.250.1
+Host is up (0.0023s latency).
+Not shown: 995 closed ports
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+443/tcp   open     https
+50300/tcp filtered unknown
+50389/tcp filtered unknown
+50500/tcp filtered unknown
+Aggressive OS guesses: H3C Comware 5.20 (99%), 3Com 4200G or Huawei Quidway S5600 switch (96%), H3C E126A or S3100-8T-SI switch (Comware 3.10) (95%), Huawei S2326 switch (95%), 3Com 4210, or Huawei Quidway S3928P-EI or S5624F switch (VRP 3.10) (95%), 3Com SuperStack 3 Switch 4500 (95%), Huawei AR 28 router (94%), 3Com 4500G switch (94%), Huawei VRP 3 switch (91%), 3Com 8810 switch (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.227.250.11
+Host is up (0.0050s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.12
+Host is up (0.0060s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.13
+Host is up (0.0062s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.14
+Host is up (0.0070s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+554/tcp open  rtsp
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.19 - 2.6.36
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.15
+Host is up (0.0075s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+554/tcp open  rtsp
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.19 - 2.6.36
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.16
+Host is up (0.0081s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.17
+Host is up (0.0078s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.18
+Host is up (0.0074s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.19
+Host is up (0.0073s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.20
+Host is up (0.0052s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.21
+Host is up (0.0056s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.22
+Host is up (0.0058s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.23
+Host is up (0.0058s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.24
+Host is up (0.0064s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.25
+Host is up (0.0066s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.26
+Host is up (0.0064s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.27
+Host is up (0.0067s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.28
+Host is up (0.0071s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.29
+Host is up (0.0070s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.30
+Host is up (0.0075s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.31
+Host is up (0.0070s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.32
+Host is up (0.0072s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.33
+Host is up (0.0073s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.34
+Host is up (0.0078s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.35
+Host is up (0.0077s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.36
+Host is up (0.0081s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.37
+Host is up (0.0085s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.38
+Host is up (0.0079s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.39
+Host is up (0.0078s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.40
+Host is up (0.0090s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.41
+Host is up (0.0076s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+554/tcp open  rtsp
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.19 - 2.6.36
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.42
+Host is up (0.0088s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.43
+Host is up (0.0096s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.44
+Host is up (0.0090s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.45
+Host is up (0.0085s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+554/tcp open  rtsp
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.19 - 2.6.36
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.46
+Host is up (0.0094s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.47
+Host is up (0.0096s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.48
+Host is up (0.0091s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+554/tcp open  rtsp
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.19 - 2.6.36
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.49
+Host is up (0.0087s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+554/tcp open  rtsp
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.19 - 2.6.36
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.51
+Host is up (0.0088s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.52
+Host is up (0.0093s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.53
+Host is up (0.0095s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.54
+Host is up (0.0097s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.55
+Host is up (0.0097s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.56
+Host is up (0.0099s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.57
+Host is up (0.010s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.58
+Host is up (0.010s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.59
+Host is up (0.0087s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.60
+Host is up (0.0092s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.61
+Host is up (0.0097s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.62
+Host is up (0.0099s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.63
+Host is up (0.0098s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.64
+Host is up (0.0097s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.65
+Host is up (0.011s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.66
+Host is up (0.011s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.67
+Host is up (0.011s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.68
+Host is up (0.012s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.69
+Host is up (0.012s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.70
+Host is up (0.013s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.71
+Host is up (0.012s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.72
+Host is up (0.012s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.73
+Host is up (0.013s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.74
+Host is up (0.012s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.75
+Host is up (0.0053s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.76
+Host is up (0.0053s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.77
+Host is up (0.0078s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.78
+Host is up (0.0087s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.79
+Host is up (0.0061s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.80
+Host is up (0.0069s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.81
+Host is up (0.0093s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.82
+Host is up (0.0095s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.83
+Host is up (0.0074s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.84
+Host is up (0.0073s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49152/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.85
+Host is up (0.0078s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.86
+Host is up (0.0081s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+554/tcp   open  rtsp
+49153/tcp open  unknown
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.4
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.87
+Host is up (0.0032s latency).
+Not shown: 990 closed ports
+PORT      STATE    SERVICE
+21/tcp    filtered ftp
+22/tcp    filtered ssh
+23/tcp    filtered telnet
+80/tcp    open     http
+443/tcp   open     https
+554/tcp   open     rtsp
+7001/tcp  open     afs3-callback
+8000/tcp  open     http-alt
+8200/tcp  open     trivnet1
+49152/tcp open     unknown
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.6.36 - 2.6.37
+Network Distance: 2 hops
+
+Nmap scan report for 10.227.250.88
+Host is up (0.0037s latency).
+Not shown: 992 closed ports
+PORT      STATE    SERVICE
+23/tcp    filtered telnet
+80/tcp    open     http
+443/tcp   open     https
+554/tcp   open     rtsp
+7001/tcp  open     afs3-callback
+8000/tcp  open     http-alt
+8200/tcp  open     trivnet1
+49152/tcp open     unknown
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Network Distance: 2 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (78 hosts up) scanned in 42.54 seconds
